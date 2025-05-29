@@ -14,7 +14,11 @@ In addition to all that course work, I do a little bit of publication in scholar
 
 I started my career off interested in typical sociological things like the Labour Process, inequality, and gender.  In my third year of 
 
-Coincidentally, I entered the PhD program at about the same time that the Internet and the World Wide Web were beginning to enter public consciousness. The WWW lowered publication entrance barriers. Basically anybody with a computer and a bit of tech-savvy could publish a paper, a journal, or whatever. Being a budding scholarly-type, I saw an opportunity to publish a scholarly journal, and so that is what I did. I created the worlds very first electronic journal of sociology named, appropriately enough, the [Electronic Journal of Sociology](https://en.wikipedia.org/wiki/Electronic_Journal_of_Sociology). 
+Coincidentally, I entered the PhD program at about the same time that the Internet and the World Wide Web were beginning to enter public consciousness. The WWW lowered publication entrance barriers. Basically anybody with a computer and a bit of tech-savvy could publish a paper, a journal, or whatever. Being a budding scholarly-type, I saw an opportunity to publish a scholarly journal, and so that is what I did. Despite the vigorous protests of Nico Stehr, I created the worlds very first electronic journal of sociology named, appropriately enough, the [Electronic Journal of Sociology](https://en.wikipedia.org/wiki/Electronic_Journal_of_Sociology). 
+
+
+
+[s1r0n.github.io/Dr.S/files/electronic-journals-and-the-transformation-of-scholarly-publication.pdf](https://s1r0n.github.io/Dr.S/files/electronic-journals-and-the-transformation-of-scholarly-publication.pdf)
 
 My dissertation was on the political economy of scholarly communication. with a bit of a bang, publishing an article in the a top tier academic journal without first submmission, no revision request. 
 
