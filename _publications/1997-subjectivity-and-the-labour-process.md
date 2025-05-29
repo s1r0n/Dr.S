@@ -1,8 +1,8 @@
 ---
-title: "Subjectivity and the Labour Process"
+title: "Response to Saad: The Sociology of Spiritulaity"
 collection: publications
 category: manuscripts
-permalink: /publication/1997-subjectivity-and-the-labour-process
+permalink: /publication/2022-response-to-saad
 excerpt: 'A case study on the food and restaurant industry.'
 date: 1997-1-1
 venue: 'Work, Employment, and Society'
