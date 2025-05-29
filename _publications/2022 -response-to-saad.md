@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022
+venue: 'Academia Letters'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.academia.edu/67132880/Response_to_Saad_The_Sociology_of_Spirituality'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
