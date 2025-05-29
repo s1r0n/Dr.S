@@ -1,5 +1,5 @@
 ---
-title: "Response to Saad: The Sociology of Spiritulaity"
+title: "Subjectivity and the Labour Process: A Case Study in the Restaurant Industry"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-response-to-saad
