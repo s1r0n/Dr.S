@@ -8,8 +8,12 @@ redirect_from:
 ---
 
 
-Site-wide configuration
+Greetings
 ------
+My name is Mike. I am a sociologist by training. PhD. from the University of Alberta, Masters from University of Regina. I started my career off interested in typical sociological things like the Labour Process, inequality, and gender.  Coincidentally, I entered the PhD program at about the same time that the Internet and the World Wide Web were beginning to enter public consciousness. The WWW lowered publication entrance barriers. Basically anybody with a computer and a bit of tech-savvy could publish a paper, a journal, or whatever. Being a budding scholarly-type, I saw an opportunity to publish a scholarly journal, and so that is what I did. I created the worlds very first electronic journal of sociology named, appropriately enough, the [Electronic Journal of Sociology](https://en.wikipedia.org/wiki/Electronic_Journal_of_Sociology). 
+
+My dissertation was on the political economy of scholarly communication. with a bit of a bang, publishing an article in the a top tier academic journal without first submmission, no revision request. 
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
