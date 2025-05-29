@@ -6,13 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Greetings and welcome. My name is Mike. I am an Associate Professor of Sociology at Athabasca University (AU). PhD. from the University of Alberta, Masters from University of Regina. At AU I coordinate [introductory sociology](https://www.athabascau.ca/syllabi/soci/soci287.html), the [sociology of religion](https://www.athabascau.ca/syllabi/soci/soci231.html), statistics, social change, and the sociology of information technology. I do a little bit of publication in scholarly journals (just enough to get by) and alot of writing and editing and revising and shaping the things I've already written. I also spend a lot of time thinking about how to organize everything, and a lot of time reorganizing, particularily as information technology has evolved. The organizational component is a big thing and has taken a lot of time. I retain my sanity by always focussing on the improvements and never spending too much time on the tasks ahead. If I did that I'd surely lose all hope.
 
-
-Greetings
-------
-My name is Mike. I am a sociologist by training. PhD. from the University of Alberta, Masters from University of Regina. I started my career off interested in typical sociological things like the Labour Process, inequality, and gender.  I published my first peer review scholarly paper, "[Subjectivity and the Labour Process](Subjectivity and the Labour Process: A Case Study in the Restaurant Industry)" in the top journal *Work, Employment, and Society* while still doing my PhD coursework. 
-
-Coincidentally, I entered the PhD program at about the same time that the Internet and the World Wide Web were beginning to enter public consciousness. When I saw it for the first time, I was gobsmacked with the potential. The WWW lowered publication entrance barriers. Basically anybody with a computer and a bit of tech-savvy could publish a paper, a journal, or whatever. Being a budding scholarly-type, I saw an opportunity to publish a scholarly journal, and so that is what I did. I created the worlds very first electronic journal of sociology named, appropriately enough, the [Electronic Journal of Sociology](https://en.wikipedia.org/wiki/Electronic_Journal_of_Sociology). 
+**Early Career
+**
+I started my career off interested in typical sociological things like the Labour Process, inequality, and gender.  Coincidentally, I entered the PhD program at about the same time that the Internet and the World Wide Web were beginning to enter public consciousness. The WWW lowered publication entrance barriers. Basically anybody with a computer and a bit of tech-savvy could publish a paper, a journal, or whatever. Being a budding scholarly-type, I saw an opportunity to publish a scholarly journal, and so that is what I did. I created the worlds very first electronic journal of sociology named, appropriately enough, the [Electronic Journal of Sociology](https://en.wikipedia.org/wiki/Electronic_Journal_of_Sociology). 
 
 My dissertation was on the political economy of scholarly communication. with a bit of a bang, publishing an article in the a top tier academic journal without first submmission, no revision request. 
 
