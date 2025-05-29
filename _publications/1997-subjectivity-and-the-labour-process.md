@@ -2,10 +2,10 @@
 title: "Subjectivity and the Labour Process: A Case Study in the Restaurant Industry"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-response-to-saad
+permalink: 1997-subjectivity-and-the-labour-process
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-1-1
-venue: 'Academia Letters'
+date: 1997-1-1
+venue: 'Work, Employment, and Society'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.academia.edu/67132880/Response_to_Saad_The_Sociology_of_Spirituality'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
