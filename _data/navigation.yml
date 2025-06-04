@@ -11,9 +11,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Lightning Path"
-    url: /lightningpath/
-
 #  - title: "Talks"
 #    url: /talks/    
 
@@ -29,8 +26,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Support This Work"
+  url: "https://ko-fi.com/avatarglobal"
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ 

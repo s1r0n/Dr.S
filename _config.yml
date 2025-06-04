@@ -17,9 +17,10 @@ url                      : https://s1r0n.github.io # the base hostname & protoco
 baseurl                  : "/Dr.S" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-aux_links:
-  "Support this work": "https://ko-fi.com/avatarglobal"
-aux_links_new_tab: true  # optional, opens link in new tab
+footer_links:
+  - label: "Support this work"
+    url: "https://ko-fi.com/avatarglobal"
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
