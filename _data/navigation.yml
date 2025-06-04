@@ -27,7 +27,7 @@ main:
     url: /cv/
     
   - title: "Support This Work"
-  url: "https://ko-fi.com/avatarglobal"
+    url: "https://ko-fi.com/avatarglobal"
   # - title: "CV"
   #   url: /cv-json/
     
