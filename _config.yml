@@ -31,6 +31,10 @@ author:
   uri              : "https://www.athabascau.ca"
   email            : "mikes@athabascau.ca" 
 
+aux_links:
+  "Support me on Ko-fi": "https://ko-fi.com/avatarglobal"
+
+
   # Academic websites
   academia         : "https://athabascau.academia.edu/DrS" # URL
   arxiv            : # URL - Update with the correct link to your profile
