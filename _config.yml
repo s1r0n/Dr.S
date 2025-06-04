@@ -17,6 +17,10 @@ url                      : https://s1r0n.github.io # the base hostname & protoco
 baseurl                  : "/Dr.S" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
+aux_links:
+  "Support this work": "https://ko-fi.com/avatarglobal"
+aux_links_new_tab: true  # optional, opens link in new tab
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -71,7 +75,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "_Dr_S_" # Username for X / Twitter
+  #twitter          : "_Dr_S_" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
