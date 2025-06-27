@@ -299,7 +299,7 @@ defaults:
       path: ""
       type: student_work
     values:
-      layout: student-single
+      layout: single
       author_profile: true
       share: true
       comments: true
