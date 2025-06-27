@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% assign entries = site[page.collection] | sort: 'date' | reverse %}
+
+<div class="archive">
+  <h1 class="page__title">{{ page.title }}</h1>
+
+  {% if page.content %}
+    <div class="page__content">
+      {{ content }}
+    </div>
+  {% endif %}
+
+  <div class="entries-list">
+    {% for item in entries %}
+      <article class="archive__item">
+        <h2 class="archive__item-title">
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        </h2>
+
+        {% if item.excerpt %}
+          <p class="archive__item-excerpt">{{ item.excerpt }}</p>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</div>
