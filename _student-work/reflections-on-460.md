@@ -6,9 +6,6 @@ date: 2024-09-01
 
 
 
-
-
-
 Reflections on the Course:
 When I enrolled in SOCI 460, I thought I would be learning about algorithms, digital
 infrastructure, and maybe some history about computers or the internet, I didn’t expect this course to
