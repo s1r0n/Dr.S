@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: student-work
 title: "Student Work"
 permalink: /student-work/
 collection: student_work
