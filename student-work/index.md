@@ -6,4 +6,4 @@ collection: student_work
 author_profile: true
 ---
 
-Student work
+Student works
