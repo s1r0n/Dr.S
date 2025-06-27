@@ -1,9 +1,9 @@
 ---
-title: "Project A"
+title: "Reflections on the Course (Soci 460)"
 date: 2024-09-01
---- 
-
-
+courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
+teaser: A 460 student talks about their experience
+---
 
 
 Reflections on the Course:
