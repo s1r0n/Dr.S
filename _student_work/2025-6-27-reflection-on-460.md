@@ -1,5 +1,5 @@
 ---
-title: "Reflections on the Course (Soci 460)"
+title: "Reflections on the Course (Soci 460)
 date: 2025-06-27
 coursename: Sociology 460
 courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
