@@ -1,5 +1,5 @@
 ---
-layout: student-work
+layout: archive
 title: "Student Work"
 permalink: /student-work/
 collection: student_work
