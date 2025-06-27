@@ -1,26 +1,40 @@
 ---
-layout: single
+layout: default
 ---
 
-{% if page.title %}
-  <header class="page__header">
-    <h1 class="page__title">{{ page.title }}</h1>
-
-    {% if page.date %}
-      <p class="page__meta"><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+<div class="page">
+  <div class="page__inner-wrap">
+    {% if page.author_profile %}
+      {% include author-profile.html %}
     {% endif %}
 
-    {% if page.courselink %}
-      <p class="page__meta">
-        <strong>Course:</strong>
-        <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a>
-      </p>
+    {% if page.title %}
+      <header class="page__header">
+        <h1 class="page__title">{{ page.title }}</h1>
+
+        {% if page.date %}
+          <p class="page__meta"><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+        {% endif %}
+
+        {% if page.courselink %}
+          <p class="page__meta">
+            <strong>Course:</strong>
+            <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a>
+          </p>
+        {% endif %}
+
+        {% if page.category %}
+          <p class="page__meta"><strong>Category:</strong> {{ page.category }}</p>
+        {% endif %}
+      </header>
     {% endif %}
 
-    {% if page.category %}
-      <p class="page__meta"><strong>Category:</strong> {{ page.category }}</p>
-    {% endif %}
-  </header>
-{% endif %}
+    <section class="page__content" itemprop="articleBody">
+      {{ content }}
+    </section>
 
-{{ content }}
+    {% if page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </div>
+</div>
