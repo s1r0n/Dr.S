@@ -1,30 +1,34 @@
 ---
-layout: default
+layout: single
 ---
 
-<div class="page">
+{% capture sidebar %}
+  {% if page.sidebar %}
+    {% include sidebar.html %}
+  {% endif %}
+{% endcapture %}
+
+<article class="page">
+  <header class="page__header">
+    <h1 class="page__title">{{ page.title }}</h1>
+
+    {% if page.date %}
+      <p class="page__meta"><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}
+    {% endif %}
+
+    {% if page.courselink %}
+      <br><strong>Course:</strong>
+        <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a>
+      
+    {% endif %}
+
+    {% if page.category %}
+      <br><strong>Category:</strong> {{ page.category }}</p>
+    {% endif %}
+  </header>
+
   <div class="page__inner-wrap">
-    <header class="page__header">
-      <h1 class="page__title">{{ page.title }}</h1>
 
-      {% if page.date %}
-        <p class="page__meta"><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</br>
-      {% endif %}
-
-      {% if page.courselink %}
-        <p class="page__meta">
-          <strong>Course:</strong>
-          <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a>
-        </br>
-      {% endif %}
-
-      {% if page.category %}
-        <strong>Category:</strong> {{ page.category }}</p>
-      {% endif %}
-    </header>
-
-    <section class="page__content" itemprop="articleBody">
-      {{ content }}
-    </section>
+    {{ content }}
   </div>
-</div>
+</article>
