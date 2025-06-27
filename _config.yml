@@ -235,7 +235,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  student_work:
+    output: true
+    permalink: /student-work/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
