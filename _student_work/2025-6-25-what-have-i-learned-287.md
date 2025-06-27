@@ -13,7 +13,9 @@ text, writing the learning journals, I have gained an appreciation for the compl
 social settings and interactions – how each and every one of us has different experiences and different 
 socialization factors that have influenced and shaped our positions and outlooks. I find this incredibly 
 interesting. It also humbles me a little bit; in nearing the end of an introductory level sociology course I
-recognize the depth and complexity of the subject. I know academics study sociology for a lifetime and
+recognize the depth and complexity of the subject. 
+
+I know academics study sociology for a lifetime and
 there are still new concepts and new understandings to be identified. Prior to this course, I knew the 
 presented social concepts existed, but I didn’t fully understand the impact they had on an individual’s 
 position in society. The self reflection I’ve undertaken to complete the required learning journals in this
