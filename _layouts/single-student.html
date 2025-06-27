@@ -2,17 +2,20 @@
 layout: default
 ---
 
-<main class="student-work">
-  <article class="student-work__entry">
-    <header>
-      <h1>{{ page.title }}</h1>
+<div class="page">
+  <div class="page__inner-wrap">
+    <header class="page__header">
+      <h1 class="page__title">{{ page.title }}</h1>
 
       {% if page.date %}
-        <p><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</br>
+        <p class="page__meta"><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</br>
       {% endif %}
 
       {% if page.courselink %}
-        <strong>Course:</strong> <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a></br>
+        <p class="page__meta">
+          <strong>Course:</strong>
+          <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a>
+        </br>
       {% endif %}
 
       {% if page.category %}
@@ -20,8 +23,8 @@ layout: default
       {% endif %}
     </header>
 
-    <div class="student-work__content">
+    <section class="page__content" itemprop="articleBody">
       {{ content }}
-    </div>
-  </article>
-</main>
+    </section>
+  </div>
+</div>
