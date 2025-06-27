@@ -2,13 +2,10 @@
 title: The Indigenous Roots of Rock and Roll"
 date: 2020-7-7
 coursename: Sociology 288 - Social Movements
-courselink: https://www.athabascau.ca/syllabi/soci/soci88.html
+courselink: https://www.athabascau.ca/syllabi/soci/soci288.html
 category: Course Reflection 
 ---
-# Reflection on Course Material
-
-As I reflect back on the course material while I write this assignment, the words that stand out to me are:  
-**Social Movement; Propaganda; Ideology; Competition; Homework; Link Wray; Jim Keen; Slaughterhouses; Biodiversity; #MeToo; Cooperative Learning; Seed Monopolies; Demobilization; Corruption.**  
+As I reflect back on the course material while I write this assignment, the words that stand out to me are:   **Social Movement; Propaganda; Ideology; Competition; Homework; Link Wray; Jim Keen; Slaughterhouses; Biodiversity; #MeToo; Cooperative Learning; Seed Monopolies; Demobilization; Corruption.**  
 
 Words like these stand out to me because throughout this course I was faced with challenges to find meaning and depth to these words. I was put to the test through each assignment to explore my inner thoughts to come up with detailed and well-prepared answers to questions I sometimes struggled with.  
 
