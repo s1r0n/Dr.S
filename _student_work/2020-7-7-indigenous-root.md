@@ -1,5 +1,5 @@
 ---
-title: The Indigenous Roots of Rock and Roll"
+title: The Indigenous Roots of Rock and Roll
 date: 2020-7-7
 coursename: Sociology 288 - Social Movements
 courselink: https://www.athabascau.ca/syllabi/soci/soci288.html
