@@ -237,7 +237,7 @@ collections:
     permalink: /:collection/:path/
   student_work:
     output: true
-    permalink: /:collection/:path/
+    permalink: /student-work/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
