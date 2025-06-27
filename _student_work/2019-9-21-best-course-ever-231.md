@@ -1,6 +1,6 @@
 ---
 title: Best Course Ever"
-date: 2025-06-27
+date: 2019-9-21
 coursename: Sociology 231
 courselink: https://www.athabascau.ca/syllabi/soci/soci231.html
 category: Course Evaluation 
