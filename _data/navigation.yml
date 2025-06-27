@@ -19,7 +19,10 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-        
+
+  - title: "Student Work"
+    url: /student-work/
+
   - title: "Blog Posts"
     url: /year-archive/
     
