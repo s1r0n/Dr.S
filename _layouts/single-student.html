@@ -51,15 +51,15 @@ layout: default
   {% endif %}
 
   {% if page.category %}
-    <p class="page__meta"><strong>Category:</strong> {{ page.category }}</p>
+    <p class="page__meta"><strong>Category:</strong> {{ page.category }}<br>
   {% endif %}
 
   {% if page.coursename and page.courselink %}
-    <p class="page__meta"><strong>Course:</strong>
+    <strong>Course:</strong>
       <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.coursename }}</a>
     </p>
   {% elsif page.courselink %}
-    <p class="page__meta"><strong>Course:</strong>
+    <strong>Course:</strong>
       <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a>
     </p>
   {% endif %}
