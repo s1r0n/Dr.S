@@ -8,15 +8,15 @@ layout: default
       <h1>{{ page.title }}</h1>
 
       {% if page.date %}
-        <p><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</p>
+        <p><strong>Published:</strong> {{ page.date | date: "%B %d, %Y" }}</br>
       {% endif %}
 
       {% if page.courselink %}
-        <p><strong>Course:</strong> <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a></p>
+        <strong>Course:</strong> <a href="{{ page.courselink }}" target="_blank" rel="noopener">{{ page.courselink }}</a></br>
       {% endif %}
 
       {% if page.category %}
-        <p><strong>Category:</strong> {{ page.category }}</p>
+        <strong>Category:</strong> {{ page.category }}</p>
       {% endif %}
     </header>
 
