@@ -1,4 +1,4 @@
---
+---
 layout: collection
 title: "Student Work"
 permalink: /student-work/
