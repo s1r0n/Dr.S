@@ -12,7 +12,7 @@ layout: default
       {{ content }}
     </div>
   {% endif %}
-
+<p>Number of entries: {{ site[page.collection].size }}</p>
   <div class="entries-list">
     {% for item in entries %}
       <article class="archive__item">
