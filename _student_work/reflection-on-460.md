@@ -4,7 +4,6 @@ date: 2025-06-27
 courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
 teaser: A 460 student talks about their experience
 layout: single-student
-layout: single
 category: Final Reflection
 ---
 
