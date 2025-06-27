@@ -12,7 +12,7 @@ layout: default
       {{ content }}
     </div>
   {% endif %}
-<p>Number of entries: {{ site[page.collection].size }}</p>
+
   <div class="entries-list">
     {% for item in entries %}
       <article class="archive__item">
@@ -20,10 +20,17 @@ layout: default
           <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
         </h2>
 
-        {% if item.excerpt %}
-          <p class="archive__item-excerpt">{{ item.excerpt }}</p>
+        {% if item.teaser %}
+          <p class="archive__item-excerpt">{{ item.teaser }}</p>
+        {% endif %}
+
+        {% if item.courselink %}
+          <p class="archive__item-meta">
+            <a href="{{ item.courselink }}" target="_blank" rel="noopener">View Course</a>
+          </p>
         {% endif %}
       </article>
     {% endfor %}
   </div>
 </div>
+`
