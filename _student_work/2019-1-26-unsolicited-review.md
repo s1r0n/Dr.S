@@ -1,5 +1,5 @@
 ---
-title: The Indigenous Roots of Rock and Roll"
+title: Sociology 287 and 288
 date: 2020-7-7
 coursename: Sociology 287 and 288
 courselink: https://www.athabascau.ca/syllabi/soci/soci287.html
