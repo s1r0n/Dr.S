@@ -6,11 +6,7 @@ courselink: https://www.athabascau.ca/syllabi/soci/soci287.html
 category: Course Reflection
 ---
 
-What have I learned during this course? The generic precursor to this question might sounds like, what 
-I’ve learned could fill a bucket, this course has been super informative, or I’m better off for the 
-understanding I’ve gained here. These are all good and accurate to some degree; I might have even 
-written something similar in a past learning journal, but to begin this discussion I’m going to start with 
-broad strokes and work to a smaller scale. In reflecting on the ten units in this course, my biggest take 
+In reflecting on the ten units in this course, my biggest take 
 away is that the nature of how human beings interact, both at an individual and organizational level, is 
 incredibly complex. By actively participating in this course, completing the commentary, reading the 
 text, writing the learning journals, I have gained an appreciation for the complexities involved in our 
