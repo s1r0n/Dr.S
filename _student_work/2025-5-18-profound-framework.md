@@ -6,11 +6,6 @@ courselink: https://www.athabascau.ca/syllabi/soci/soci287.html
 category: Course Reflection
 ---
 
-
-What Have I Learned in Introduction to Sociology?
-
-**Introduction**
-
 When I first enrolled in Introduction to Sociology, I anticipated learning about social groups and perhaps some statistical trends in society. What I discovered instead was a profound analytical framework that  has fundamentally altered how I perceive the world around me. Sociology has equipped me with conceptual tools to examine social structures, understand human behavior beyond individual psychology, and recognize patterns of inequality that shape our collective experience. This essay reflects on the key concepts, theories, and perspectives I've gained throughout this course, demonstrating how sociology has transformed my understanding of society and my place within it.
 **
 Sociological Imagination**
