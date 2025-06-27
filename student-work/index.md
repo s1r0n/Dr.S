@@ -7,6 +7,9 @@ sidebar:
 author_profile: true
 ---
 
+
+Welcome to our collection of student reflections and projects.
+
 {% assign entries = site.student_work | sort: 'date' | reverse %}
 
 <div class="entries-list">
