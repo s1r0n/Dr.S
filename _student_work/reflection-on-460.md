@@ -3,7 +3,7 @@ title: "Reflections on the Course (Soci 460)"
 date: 2025-06-27
 courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
 teaser: A 460 student talks about their experience
-layout: single-student
+layout: default
 category: Final Reflection
 ---
 
