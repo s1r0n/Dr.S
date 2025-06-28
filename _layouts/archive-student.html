@@ -43,9 +43,9 @@ layout: default
       </p>
 
      {% if post.teaser %}
-       <p class="archive__item-excerpt"><em>{{ post.teaser }}</em></p>
+       <p class="archive__item-meta"><em>{{ post.teaser }}</em></p>
      {% elsif post.excerpt %}
-       <p class="archive__item-excerpt"><em>{{ post.excerpt | markdownify | strip_html | strip_newlines }}</em></p>
+       <p class="archive__item-meta"><em>{{ post.excerpt | markdownify | strip_html | strip_newlines }}</em></p>
      {% endif %}
     </article>
   {% endfor %}
