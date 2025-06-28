@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-student
 title: "Student Work"
 permalink: /student-work/
 author_profile: true
