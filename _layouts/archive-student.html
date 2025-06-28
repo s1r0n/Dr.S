@@ -1,0 +1,31 @@
+{% assign posts = site.student_work | sort: 'date' | reverse %}
+
+<div class="entries-list">
+  {% for post in posts %}
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+
+      <p class="archive__item-meta">
+        {% if post.date %}
+          <strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}<br>
+        {% endif %}
+        
+        {% if post.category %}
+          <strong>Category:</strong> {{ post.category }}<br>
+        {% endif %}
+
+        {% if post.courselink and post.coursename %}
+          <strong>Course:</strong> <a href="{{ post.courselink }}" target="_blank" rel="noopener">{{ post.coursename }}</a><br>
+        {% elsif post.courselink %}
+          <strong>Course:</strong> <a href="{{ post.courselink }}" target="_blank" rel="noopener">{{ post.courselink }}</a><br>
+        {% endif %}
+      </p>
+
+      {% if post.teaser %}
+        <p class="archive__item-excerpt"><em>{{ post.teaser }}</em></p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
