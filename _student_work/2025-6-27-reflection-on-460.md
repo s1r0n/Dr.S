@@ -3,16 +3,11 @@ title: Reflections on the Course (Soci 460)
 date: 2025-06-27
 coursename: Sociology 460
 courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
-teaser: A 460 student talks about their experience
+teaser: When I enrolled in SOCI 460, I thought I would be learning about algorithms, digital infrastructure, and maybe some history about computers or the internet, I didn’t expect this course to it so close to home. I had no idea I would end up thinking about the Catholic Church, the masculine foundations of science, spiritual longing, Facebook content moderators, or the invisible ands that curate and control my daily life. More than that, I didn’t expect to be sitting with guilt, grief, awe, and a renewed sense of responsibility.
 category: Final Reflection 
 ---
 
-When I enrolled in SOCI 460, I thought I would be learning about algorithms, digital
-infrastructure, and maybe some history about computers or the internet, I didn’t expect this course to
-hit so close to home. I had no idea I would end up thinking about the Catholic Church, the masculine
-foundations of science, spiritual longing, Facebook content moderators, or the invisible hands that
-curate and control my daily life. More than that, I didn’t expect to be sitting with guilt, grief, awe, and a
-renewed sense of responsibility.
+When I enrolled in SOCI 460, I thought I would be learning about algorithms, digital infrastructure, and maybe some history about computers or the internet, I didn’t expect this course to it so close to home. I had no idea I would end up thinking about the Catholic Church, the masculine foundations of science, spiritual longing, Facebook content moderators, or the invisible ands that curate and control my daily life. More than that, I didn’t expect to be sitting with guilt, grief, awe, and a renewed sense of responsibility.
 
 I came into this course as someone who has spent 15 years working for the Department of
 Justice. I’ve seen what bureaucracy looks like from the inside. I’ve seen how distant decision-makers
