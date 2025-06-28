@@ -6,7 +6,7 @@ courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
 teaser: A 460 student talks about their experience
 category: Final Reflection 
 teaser: The most fascinating revelation came through David Noble’s “The Religion of Technology,” which exposed
-something completely absent from my CS 492 experience: the deep spiritual and religious underpinnings of
+something completely absent from my CS 492 experience - the deep spiritual and religious underpinnings of
 Western technological development. This course went beyond “utopianism and dystopianism” in computing,
 examining the millennial Christian expectations that Noble demonstrates have driven technological
 development for centuries.
