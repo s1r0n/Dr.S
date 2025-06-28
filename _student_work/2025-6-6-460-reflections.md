@@ -1,5 +1,5 @@
 ---
-title: Reflections on the Course (Soci 460)
+title: The Religion of Technology
 date: 2025-06-27
 coursename: Sociology 460
 courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
