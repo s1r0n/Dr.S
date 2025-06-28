@@ -1,5 +1,5 @@
 ---
-title: "Directed Readings and Research(SOCI 231)"
+title: "Directed Readings and Research (SOCI 427)"
 collection: teaching
 type: "Undergraduate course"
 permalink: https://www.athabascau.ca/syllabi/soci/soci427.html
