@@ -1,5 +1,5 @@
 ---
-title: "Sociology 301 - Social Statistics "
+title: "Social Statistics (SOCI301) "
 collection: teaching
 type: "Undergraduate course"
 permalink: https://www.athabascau.ca/syllabi/soci/soci288.html
