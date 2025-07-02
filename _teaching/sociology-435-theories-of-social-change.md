@@ -4,9 +4,9 @@ collection: teaching
 type: "Undergraduate course"
 permalink: https://www.athabascau.ca/syllabi/soci/soci435.html
 venue: "Athabasca University"
-author: past
-coordinates: no
-tutors: no
+author: false
+coordinates: false
+tutors: false
 ---
 
 SOCI 435 surveys several different theories, concepts, and categories used by sociologists to explain social change. Students will be asked to draw from these theories and concepts when examining some of the social, economic, and political transformations occurring at the end of the twentieth century.
