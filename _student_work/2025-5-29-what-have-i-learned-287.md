@@ -6,7 +6,6 @@ courselink: https://www.athabascau.ca/syllabi/soci/soci287.html
 category: Course Reflection
 ---
 
-
 Honestly, when I registered for this course, I wasn’t entirely sure what to expect. I thought 
 maybe I would just learn some facts about society, memorize some theories, maybe talk 
 about why people do the things they do. I figured I’d learn some new material, hopefully get 
