@@ -4,13 +4,8 @@ date: 2025-05-15
 coursename: Sociology 288 - Social Movements
 courselink: https://www.athabascau.ca/syllabi/soci/soci288.html
 category: Course Reflection
+teaser: My most significant realization is that personal transformation and political awareness are deeply interconnected. Caring is not enough—we must critically analyze the systems we operate within, the narratives we perpetuate, and the assumptions we unconsciously hold. I now feel more committed than ever in questioning dominant narratives in my work and creating space for truth-telling, relational accountability, and systemic change.
 ---
-
-_My most significant realization is that personal transformation and political awareness are deeply
-interconnected. Caring is not enough—we must critically analyze the systems we operate within,
-the narratives we perpetuate, and the assumptions we unconsciously hold. I now feel more 
-committed than ever in questioning dominant narratives in my work and creating space for truth-
-telling, relational accountability, and systemic change._
 
 Throughout SOCI288, I found myself not only studying ideology, power, and resistance, but 
 slowly recognizing how deeply these forces have shaped my own life. As a woman from an Arab
