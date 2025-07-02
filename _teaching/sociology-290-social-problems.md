@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: https://www.athabascau.ca/syllabi/soci/soci290.html
 venue: "Athabasca University"
-author: no
-coordinates: no
-tutors: no
+author: true
+coordinates: false
+tutors: false
 ---
 SOCI 290: Social Problems is designed to introduce students to the study of social problems: their definition, their dimensions and interconnections, and the effects and strategies for alleviating them.
