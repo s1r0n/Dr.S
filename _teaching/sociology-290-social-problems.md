@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: https://www.athabascau.ca/syllabi/soci/soci290.html
 venue: "Athabasca University"
-author: past
+author: no
 coordinates: no
 tutors: no
 ---
