@@ -1,5 +1,5 @@
 ---
-layout: archive-student
+layout: default
 title: "Student Reflections"
 permalink: /student-work/
 author_profile: true
