@@ -4,9 +4,9 @@ collection: teaching
 type: "Undergraduate course"
 permalink: https://www.athabascau.ca/syllabi/soci/soci427.html
 venue: "Athabasca University"
-author: yes
-coordinates: yes
-tutors: yes
+author: true
+coordinates: true
+tutors: true
 ---
 
 wanna take a reading coures form me. 
