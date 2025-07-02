@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single-student
 title: "Student Reflections"
 permalink: /student-work/
 author_profile: true
