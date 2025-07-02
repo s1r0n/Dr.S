@@ -4,17 +4,8 @@ date: 2025-1-1
 coursename: Sociology 288 - Social Movements
 courselink: https://www.athabascau.ca/syllabi/soci/soci288.html
 category: Course Reflection
+teaser: I would like to say that the course exceeded my expectations. The material offered a learning experience that goes beyond the classroom and the examples provided; it is practical learning that the student can apply the concepts to everyday life. This practical applicability is what truly captivates me and makes me feel happy and fulfilled. Realizing that the concepts of social movements are not just relevant to large-scale protests, but also to the small things in daily life, made me feel more connected as a human being and a citizen. It gave me a stronger sense of how I can help and contribute to the society I live in. For me, SOCI288 brilliantly combined theory with practical application, allowing students to link each unit to the readings and their own individual experiences.
 ---
-
-_As a final thought, I would like to say that the course exceeded my expectations. The
-material offered a learning experience that goes beyond the classroom and the examples
-provided; it is practical learning that the student can apply the concepts to everyday life. This
-practical applicability is what truly captivates me and makes me feel happy and fulfilled.
-Realizing that the concepts of social movements are not just relevant to large-scale protests, but
-also to the small things in daily life, made me feel more connected as a human being and a
-citizen. It gave me a stronger sense of how I can help and contribute to the society I live in. For
-me, SOCI288 brilliantly combined theory with practical application, allowing students to link
-each unit to the readings and their own individual experiences._
 
 SOCI288 was the second sociology course I took, and before enrolling, I was not sure
 what to expect, as I had little prior knowledge of this field of study. Coming from a career in
