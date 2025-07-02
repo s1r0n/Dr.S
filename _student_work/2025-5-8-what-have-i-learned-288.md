@@ -4,16 +4,9 @@ date: 2025-02-28
 coursename: Sociology 288 - Social Movements
 courselink: https://www.athabascau.ca/syllabi/soci/soci288.html
 category: Course Reflection
----
-_By the time we explored the public relations industry and propaganda, I was beginning to
-see that nearly every institution I had once trusted—church, school, media, government—spoke 
-a language of compliance. The assigned chapters from A Century of Spin were almost comically 
-dark in how they pulled back the curtain on PR’s role in manufacturing reality. I began noticing 
-it in everything: how political campaigns reframe policy as “freedom,” how consumer brands 
-adopt woke messaging to sell soda, how even well-meaning institutions use symbols to signal 
-virtue instead of engaging in real reform. The Matrix analogy felt less like a metaphor and more 
-like a documentary_.
+teaser: By the time we explored the public relations industry and propaganda, I was beginning to see that nearly every institution I had once trusted—church, school, media, government—spoke a language of compliance. The assigned chapters from A Century of Spin were almost comically dark in how they pulled back the curtain on PR’s role in manufacturing reality. I began noticing it in everything: how political campaigns reframe policy as “freedom,” how consumer brands adopt woke messaging to sell soda, how even well-meaning institutions use symbols to signal virtue instead of engaging in real reform. The Matrix analogy felt less like a metaphor and more like a documentary.
 
+---
 Before I began SOCI 288: Introduction to Sociology II, I would have told you I 
 understood the world quite well. After all, I was a carpenter who had lived through poverty, 
 witnessed political theatre at its finest, survived inflation, burnout, and disillusionment. I 
