@@ -3,15 +3,8 @@ title: The Power of Education
 coursename: Sociology 288 - Social Movements
 courselink: https://www.athabascau.ca/syllabi/soci/soci288.html
 category: Course Reflection
+teaser: Initially, when I reviewed the course materials and the website, I felt overwhelmed by the sheer volume of resources, readings, and course deliverables. It seemed like an insurmountable task to read through everything and internalize and retain the information. However, as I began to dive into the material, I found it deeply engaging, informative, and thought-provoking, which made the learning process much more enjoyable than I had anticipated
 ---
-
-_Initially, when I reviewed the course materials and the website, I felt 
-overwhelmed by the sheer volume of resources, readings, and course 
-deliverables. It seemed like an insurmountable task to read through 
-everything and internalize and retain the information. However, as I began to
-dive into the material, I found it deeply engaging, informative, and thought-
-provoking, which made the learning process much more enjoyable than I had
-anticipated._
 
 I thoroughly enjoyed the SOCI 288 Introduction to Sociology II course. 
 Initially, when I reviewed the course materials and the website, I felt 
