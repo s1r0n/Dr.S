@@ -30,9 +30,9 @@ layout: default
   <p>{{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
   <p><strong>{{ page.venue }}</strong>: <a href="{{ page.permalink }}" target="_blank" rel="noopener noreferrer">{{ page.title }}</a></p>
   <ul>
-    <li><strong>Authors:</strong> {% if page.author %}Yes{% else %}No{% endif %}</li>
-    <li><strong>Coordinate:</strong> {% if page.coordinates %}Yes{% else %}No{% endif %}</li>
-    <li><strong>Tutors:</strong> {% if page.tutors %}Yes{% else %}No{% endif %}</li>
+   <li><strong>Authors:</strong> {% if page.author == true %}Yes{% else %}No{% endif %}</li>
+    <li><strong>Coordinate:</strong> {% if page.coordinates == true %}Yes{% else %}No{% endif %}</li>
+    <li><strong>Tutors:</strong> {% if page.tutors == true %}Yes{% else %}No{% endif %}</li>
   </ul>
 {% elsif page.venue and page.date %}
   ...
