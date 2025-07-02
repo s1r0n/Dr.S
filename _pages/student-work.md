@@ -1,6 +1,6 @@
 ---
 layout: archive-student
-title: "Student Reflection"
+title: "Student Reflections"
 permalink: /student-work/
 author_profile: true
 ---
