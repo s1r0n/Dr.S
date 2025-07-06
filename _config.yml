@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Website of Dr. Mike Sosteric"
+title                    : "Website of Dr. S."
 title_separator          : "-"
 name                     : &name "Mike Sosteric"
 description              : &description "Sociologist, educator, mystic, parent"
