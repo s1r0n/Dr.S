@@ -24,15 +24,15 @@ tags:
 ### 1. **Assumption: Modern Society Superior**
 
 - Technology superior, that is true. 
-- But really? Morally? Ethically? Socially? Ecologically? Currently facing possibility of complete system collapse. Nothing superior about normal at all.  
-- Assumption that modern society is superior gives rise motion that modern consciousness, which presumably gave rise to modern society, is superior.
+- But morally? Ethically? Socially? Ecologically? Not so much. Currently facing possibility of complete system collapse. Nothing superior about normal at all.  
+- Assumption that modern society is superior gives rise to the notion that modern consciousness, which presumably gave rise to modern society, is superior.
 - Assumes "modern" brain patterns superior
 
 ### 2. **Assumption: Consciousness located in brain**
 
 - Brain is the source
 - Changes in brain (specifically entropy) = changes in states.
-- Learn about consciousness, study the brain (neuroscience)
+- To learn about consciousness, study the brain (neuroscience)
 - When we do look at brain we see broad patterns of activation
 
 ### 3. **Assumption: Entropy = Inferiority**
