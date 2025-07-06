@@ -15,36 +15,40 @@ tags:
 
 ## Introduction: Challenging the Frame
 
-- Recent neuroscience models (e.g., Carhart-Harris’s *Entropic Brain*) define psychedelic states as high-entropy, regressive, and disordered.
-- These models assume “normal,” ego-dominated consciousness is optimal and evolved.
+- Recent neuroscience models (e.g., Carhart-Harris’s *Entropic Brain*) define psychedelic states as high-entropy, sub-optimal, primitive, formless, regressive, and disordered.
+- These models assume “normal,” ego-dominated consciousness is optimal and evolved (secondary consciousness) over primary consciousness.
 - But what if these models are ideologically contaminated and fundamentally incorrect?
 
 ---
 
 ## I. The Ideological Assumptions of “Normal” Consciousness
 
+Biggest assumption "Assumes Consciousness located in brain"
+
 ### 1. **Entropy = Inferiority**
-- High entropy = more randomness, less predictability.
-- Misread as pathology.
+- Entropy = randomness/uncertainty
+- Assumes "modern" brain patterns superior
+- Assumes human superiority
+- Assumes "entropic" states pathological.
 - Actually: may indicate emergent insight, trauma surfacing, integration-in-process.
 
 ### 2. **Suppression = Evolution**
-- Ability to suppress entropy seen as evolutionary advance.
-- But: this is emergency adaptation, not peak development.
+- Entropic suppression an evolutionary marker (we are superior because our brains show more entropy). Ability to suppress entropy seen as evolutionary advance.
+- But: this is emergency adaptation to precarity imposed by toxic regimes of accumulation, not peak development.
 - Specialization ≠ superiority.
 
 ### 3. **“Normal” = Optimal**
 - Secondary consciousness = adult, rational, focused, stable.
-- But: blinkered, emotionally repressed, often incapable of reality testing (e.g., climate inaction).
+- But: blinkered, emotionally repressed, often incapable of reality testing (e.g., climate inaction, pandemic awareness).
 - A diminished state, not a mature one.
 
 ---
 
 ## II. Psychedelic States as Windows into Expanded Consciousness
 
-- Not regressive; expansive, especially over time and with intention.
-- Initially disordered → becomes integrative, intelligent, ordered.
-- Indicates **latent human capacity** suppressed by trauma, ideology, narrow ego.
+- Not regressive; expansive, integrative, superior, especially over time and with intention and practice.
+- Initially disordered → becomes integrative, intelligent, ordered with experience.
+- Indicates not disordered, primitive state but **latent human capacity** suppressed by trauma, ideology, narrow bodily ego.
 
 ---
 
@@ -55,9 +59,11 @@ tags:
 - Exists independent of matter.
 - Brain = modulator/filter, not generator.
 
-### 2. **Brain as Prism or Focussing Device**
+### 2. **Brain as Prism or Focusing Device**
 - Focuses, narrows, and conditions consciousness for physical interface.
 - Current models confuse filtered consciousness for totality.
+
+[Prism](https://esosteric.lightningpath.org/images/prism.jpg)
 
 ### 3. **“Normal” Consciousness is Diminished**
 - Secondary consciousness = specialized tool for control and navigation in precarity.
