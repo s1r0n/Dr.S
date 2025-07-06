@@ -63,7 +63,7 @@ Biggest assumption "Assumes Consciousness located in brain"
 - Focuses, narrows, and conditions consciousness for physical interface.
 - Current models confuse filtered consciousness for totality.
 
-[Prism](https://esosteric.lightningpath.org/images/prism.jpg)
+<img src="https://esosteric.lightningpath.org/images/prism.jpg">
 
 ### 3. **“Normal” Consciousness is Diminished**
 - Secondary consciousness = specialized tool for control and navigation in precarity.
