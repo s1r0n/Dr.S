@@ -19,38 +19,45 @@ tags:
 - These models assume “normal,” ego-dominated consciousness is optimal and evolved (secondary consciousness) over primary consciousness.
 - But what if these models are ideologically contaminated and fundamentally incorrect?
 
----
-
 ## I. The Ideological Assumptions of “Normal” Consciousness
 
-Biggest assumption "Assumes Consciousness located in brain"
+### 1. **Assumption: Modern Society Superior**
 
-### 1. **Entropy = Inferiority**
-- Entropy = randomness/uncertainty
+- Technology superior, that is true. 
+- But really? Morally? Ethically? Socially? Ecologically? Currently facing possibility of complete system collapse. Nothing superior about normal at all.  
+- Assumption that modern society is superior gives rise motion that modern consciousness, which presumably gave rise to modern society, is superior.
 - Assumes "modern" brain patterns superior
-- Assumes human superiority
-- Assumes "entropic" states pathological.
-- Actually: may indicate emergent insight, trauma surfacing, integration-in-process.
 
-### 2. **Suppression = Evolution**
+### 2. **Assumption: Consciousness located in brain**
+
+- Brain is the source
+- Changes in brain (specifically entropy) = changes in states.
+- Learn about consciousness, study the brain (neuroscience)
+- When we do look at brain we see broad patterns of activation
+
+### 3. **Assumption: Entropy = Inferiority**
+- Entropy, high activation  = randomness/uncertainty
+- Reduced entropy = organization, self-awareness, happy brain, reality
+- Assumes "entropic" states pathological/primitive.
+- **But**, powerful experience of self in entropic states still exists, just more expansive, unitive. my own experience, multiple selves. 
+- may indicate emergent insight, trauma surfacing, integration-in-process.
+- What happens with regular connection practice?
+
+### 4. **Assumption: Suppression = Evolution**
 - Entropic suppression an evolutionary marker (we are superior because our brains show more entropy). Ability to suppress entropy seen as evolutionary advance.
 - But: this is emergency adaptation to precarity imposed by toxic regimes of accumulation, not peak development.
 - Specialization ≠ superiority.
 
-### 3. **“Normal” = Optimal**
+### 5. **“Normal” = Optimal**
 - Secondary consciousness = adult, rational, focused, stable.
-- But: blinkered, emotionally repressed, often incapable of reality testing (e.g., climate inaction, pandemic awareness).
+- But, normal = blinkered, emotionally repressed, often incapable of reality testing on a larger scale (e.g., climate inaction, pandemic awareness).
 - A diminished state, not a mature one.
-
----
 
 ## II. Psychedelic States as Windows into Expanded Consciousness
 
 - Not regressive; expansive, integrative, superior, especially over time and with intention and practice.
-- Initially disordered → becomes integrative, intelligent, ordered with experience.
-- Indicates not disordered, primitive state but **latent human capacity** suppressed by trauma, ideology, narrow bodily ego.
-
----
+- Initially disordered → becomes integrative, intelligent, ordered with experience and practice.
+- Indicates not disordered, primitive state but **latent human capacity** suppressed by trauma, ideology, .
 
 ## III. An Alternative Theory: Consciousness Beyond the Brain
 
@@ -61,16 +68,16 @@ Biggest assumption "Assumes Consciousness located in brain"
 
 ### 2. **Brain as Prism or Focusing Device**
 - Focuses, narrows, and conditions consciousness for physical interface.
+- Changes in brain = changes in refractive patterns, not changes in Consciousness
 - Current models confuse filtered consciousness for totality.
 
 <img src="https://esosteric.lightningpath.org/assets/images/prism.jpg" alt="Prism of Consciousness" width=200px  align=center />
 
-### 3. **“Normal” Consciousness is Diminished**
-- Secondary consciousness = specialized tool for control and navigation in precarity.
-- Prioritizes ego, instrumental logic.
+### 3. **“Normal” Consciousness is Filtered and Diminished**
+- Changes in brain activity = changes in filtration
+- Secondary consciousness = highly filtered, specialized tool for control and navigation in precarity.
+- Not superior, Prioritizes ego, instrumental logic.
 - Suppresses general awareness, emotional access, and connection.
-
----
 
 ## IV. Toward a Regenerative Model of Consciousness
 
@@ -79,13 +86,8 @@ Biggest assumption "Assumes Consciousness located in brain"
 - Integration needed to sustain and stabilize.
 - Shift from pathology framing → developmental and spiritual framing.
 
----
-
 ## Conclusion: Dismantling the Ideology of Suppression
 
 - Entropic Brain theory describes real dynamics, but misinterprets them.
-- Ideological assumptions: Eurocentric superiority, materialism, repression as maturity.
+- Ideological assumptions: Eurocentric superiority, speciesism, materialism, repression as maturity.
 - True human development = reconnection, expansion, healing.
-- Let’s stop mistaking **suppression for evolution** and **disorder for regression**.
-
-**→ Expand our models. Expand our minds.**
