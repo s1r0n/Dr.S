@@ -13,7 +13,7 @@ tags:
 
 *Mike Sosteric*
 
-<a href="https://esosteric.lightningpath.org/assets/images/9781316617922.jpg" align=right>
+<img src="https://esosteric.lightningpath.org/assets/images/9781316617922.jpg" align=right>
 
 Chapter 16 of _Power, Politics, and Paranoia_ (Sullivan et al., 2014) attempts to address the perennial question of why people are drawn to narratives of good versus evil, particularly in political life, and the consequences that these narratives have. The authors argue that binary moralizing frameworks are rooted in existential dread. In their view, the tendency to divide the world into heroes and villains, good and evil, stems not from deliberate ideological design but from deep psychological needs for control, predictability, and meaning in the face of uncertainty and mortality.
 
@@ -27,15 +27,13 @@ At first glance, this seems reasonable. Existential psychology has long posited 
 
 ## The Real Root: Symbolic Domination
 
-​	Where Sullivan et al. see misfiring pattern recognition and projection, critical theorists like Bourdieu and Althuser see *symbolic power (Bourdieu & Passeron, 1990)* *a**nd state manipulation of consciousness. (Althusser, 1971).* Bourdieu’s concept of *symbolic violence* captures precisely how dominant groups impose frameworks that cause dominated groups to misrecognize their position in the social order as natural, deserved, or divinely ordained (false consciousness). The good-versus-evil binary is one such symbolic imposition. It cloaks structural violence in moral absolutes, rendering elite interests invisible behind a veil of spiritual battle. This symbolic operation is further theorized in System Justification Theory (Jost & Banaji, 1994) which demonstrates how people internalize ideologies that explain and justify existing social arrangements, even when those arrangements disadvantage them. While Sullivan et al suggest that the “enemy” is not an elite manipulating symbols but an inner fear of chaos, system justification theory points in the direction of the weaponization of meaning through ideological narratives to serve the status quo.
+​	Where Sullivan et al. see misfiring pattern recognition and projection, critical theorists like Bourdieu and Althuser see *symbolic power* (Bourdieu & Passeron, 1990) and state manipulation of consciousness (Althusser, 1971). Bourdieu’s concept of *symbolic violence* captures precisely how dominant groups impose archetypal frameworks that cause dominated groups to misrecognize their position in the social order as natural, deserved, or divinely ordained (false consciousness). The good-versus-evil binary is one such symbolic imposition. It cloaks structural violence in moral absolutes, rendering elite interests invisible behind a veil of spiritual battle. This symbolic operation is further theorized in System Justification Theory (Jost & Banaji, 1994) which demonstrates how people internalize ideologies that explain and justify existing social arrangements, even when those arrangements disadvantage them. While Sullivan et al suggest that the “enemy” is not an elite manipulating symbols but an inner fear of chaos, system justification theory points in the direction of the weaponization of meaning through ideological narratives to serve the status quo.
 
 ## A Missed Opportunity
 
 ​	By pathologizing the population’s use of archetypal thinking, the authors miss the real insight: archetypes are not simply “in the mind,” they are cultivated, circulated, and sustained in material and institutional contexts. This turns archetypes like good-versus-evil from coping mechanisms into tools of control. Moreover, the authors offer no historical depth. They do not examine how the good-versus-evil narrative emerged in the Zoroastrian dualism that influenced Western monotheism (Boyce, 1996; Sosteric, 2024), or how it was institutionalized in colonial discourse, nationalist rhetoric, and modern entertainment industries. They show no awareness of the feedback loops between narrative, affect, policy, and profit. In the end, “Searching for the Root of All Evil” doesn’t search far enough. It confines itself to the neural grooves of individual minds and ignores the well-worn institutional trails along which ideology is carried. 
 
----
-
-References
+## References
 
 Althusser, Louis. “Ideology and Ideological State Apparatuses.” In *Lenin and Philosophy and Other Essays*. Monthly Review Press, 1971. <https://www.marxists.org/reference/archive/althusser/1970/ideology.htm>
 
