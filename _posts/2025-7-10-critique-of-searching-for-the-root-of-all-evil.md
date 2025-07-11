@@ -1,6 +1,6 @@
 ---
 title: Critique of “Searching for the Root of All Evil”'
-date: 2025-7-6
+date: 2025-7-10
 permalink: /posts/2025/critique-of-searching-for-the-root-of-all-evil/
 tags:
   - Archetypes
