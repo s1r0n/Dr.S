@@ -1,13 +1,13 @@
 ---
 title: Not What I Expected
-date: 2025-02-28
-coursename: Sociology 460 - Social of Technology
+date: 2025-07-14
+coursename: Sociology 460 - Sociology of Technology 
 courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
 category: Course Reflection
 ---
 In all honesty, I wasn’t sure what to expect to get out of this course when I registered.
 At first, I thought it might be a general overview of how information technology (IT) works
-in our day to day lives, or potentially the general changes information technology has had on
+in our day-to-day lives, or potentially the general changes information technology has had on
 our society throughout time. But going through the units, readings, and assignment, I’ve been
 surprised at how much this course made me think deeply and challenge my initial perspective
 about how information and technology are tied into power, inequality, politics, and even our
