@@ -18,17 +18,17 @@ wasn’t always easy or comfortable, but it was absolutely worth it.
 ## What Fascinated me the Most
 The topic that I found most fascinating was the intersection of surveillance, power,
 and inequality. Learning about Anthony Giddens’ idea that surveillance is a fundamental
-aspect of how modern societies organise themselves was eye opening. It’s not just about
+aspect of how modern societies organize themselves was eye-opening. It’s not just about
 cameras or government spying. It’s about the invisible ways information is gathered and used
 to manage populations and maintain control. The expansion of IT, whether through Facebook
 or data analytics firms like Cambridge Analytica, takes this to a whole new level. The scale
 and sophistication of these systems, combined with the lack of transparency, made me realize
-how much power rests in the hands of a few, and how easily our privacy and autonomy can
+how much power rests in the hands of a few and how easily our privacy and autonomy can
 be compromised.
 
 What surprised me the most was realizing how surveillance isn’t always aggressive or
 obviously invasive. It’s often subtle, embedded in everyday systems we trust and rely on.
-Things like health databases, education platforms, social media, etc.. all of them quietly
+Things like health databases, education platforms, social media, etc, all of them quietly
 collect and store our behaviours. It made me think about how much we’ve normalized being 
 constantly watched, and how rarely we stop to ask where the data goes or who profits from it.
 It’s easy to shrug it off as the price of convenience, but this course pushed me to actually sit
@@ -67,7 +67,7 @@ It’s about who can participate meaningfully in the digital world, who controls
 that control influences democracy itself.
 
 At times, this brought feelings of discomfort and even frustration. It felt somewhat
-overwhelming to realise how complex and deeply entrenched these problems are, and how
+overwhelming to realize how complex and deeply entrenched these problems are, and how
 much ordinary people are often left powerless. But that discomfort was necessary. It pushed
 me to question assumptions and seek deeper understanding rather than easy answers. And
 that’s probably the most valuable shift for me, learning to sit in discomfort rather than rushing
@@ -109,7 +109,7 @@ open eyes.
 ## Looking Forward
 I’m optimistic about the future because understanding these issues is the first step
 towards meaningful change. This course has given me a toolkit of critical perspectives and
-real world examples that I can carry forward into my career and life. It’s motivated me to
+real-world examples that I can carry forward into my career and life. It’s motivated me to
 think beyond just creating technology to actively shaping its role in society, working to
 ensure it helps people rather than exploiting them.
 
@@ -121,7 +121,7 @@ This course was a transformative journey. Not just intellectually but personally
 emotionally. It challenged my assumptions, expanded my worldview, and deepened my
 commitment to ethical technology development. I’m grateful for the opportunity to engage
 with such critical issues and hopeful that I can contribute to a future where technology
-supports human dignity and collective well being.
+supports human dignity and collective well-being.
 
 ## References
 
