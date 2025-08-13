@@ -9,8 +9,8 @@ redirect_from:
 > The technique of mysticism, properly practiced, may result in the direct intuition of and union with an ultimate spiritual reality that is perceived as simultaneously beyond the self and, in some way, within it. 
 >  **Aldous Huxley**
 
-_Note, this bio page is written in support of an application for promotion. If it feels like I am blowing my own horn, I am. That's the process. I will rewrite when that is said and done. 
-_
+_Note, this bio page is written in support of an application for promotion. If it feels like I am blowing my own horn, I am. That's the process. I will rewrite when that is said and done._
+
 Greetings and welcome. My name is Mike. I am an Associate Professor of Sociology at Athabasca University (AU). PhD. from the University of Alberta, Masters from University of Regina. At AU I coordinate [introductory sociology](https://www.athabascau.ca/syllabi/soci/soci287.html), the [sociology of religion](https://www.athabascau.ca/syllabi/soci/soci231.html), [statistics](https://www.athabascau.ca/syllabi/soci/soci301.html), [introduction to social movements](https://www.athabascau.ca/syllabi/soci/soci288.html), and the [sociology of information technology](https://www.athabascau.ca/syllabi/soci/soci460.html).  In the past, I have  coordinated or created several additional courses, including Theories of Social Change (Sociology 435) and Canadian society. Right now I am working on a course about archetypes, narratives, and creation templates entitled _Sociology 420: Writing New Stories_ 
 
 In addition to all that course work, I do a little bit of publication in scholarly journals (THB, just enough to get by) and a lot of writing, editing, revising, and shaping the things I've already written. I also spend a lot of time thinking about how to organize everything, and a lot of time reorganizing, particularly as information technology has evolved. The organizational component is a big task and has taken a lot of time to get right, if it can currently be called right. I retain my sanity by always focusing on the improvements and never spending too much time on the tasks ahead. If I did that, I'd surely lose all hope.
