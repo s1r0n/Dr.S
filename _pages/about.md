@@ -90,23 +90,25 @@ So what did I do? I believe three things made it possible for me to initiate the
 - [Mystical Experience and Global Revolution](https://www.academia.edu/25031557/Mystical_experience_and_global_revolution)
 - [Star Wars is a Religion that Primes us All for War](https://theconversation.com/star-wars-is-a-religion-that-primes-us-for-war-and-violence-89443) - article written in conversation
 
-I spent a lot of time exploring the ideological underpinnings of modern spirituality and in that time it has become quite clear to me that the spiritual and metaphysical terrain of this planet has been colonized by agents of the [Accumulating Class](https://spiritwiki.lightningpath.org/index.php/Accumulating_Class), it's archetypes have distorted, its cosmologies have been inverted, and the liberatory potential of authentic spirituality has suppressed, turned into enslaving ideology in service of the extant [Regime of Accumulation](https://spiritwiki.lightningpath.org/index.php/Regime_of_Accumulation). Of course, I wouldn't be the first one to say that. Karl Marx and a handful of others have said it too. All sociologists who consider religion and mysticism, almost without exception, dismiss it as opiated delusion. Organized religion is bunk. Mystical experiences are bunk. God and Consciousness in creation? All bunk, product of a deceptive and delusional minds corrupted by capitalist ideology.  Only three I can think of took it seriously. Joachim Wach, Ernst Troeltsch and possibly [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter), Anglican Minister and radical socialist, but only if you include him in sociological ranks, and these individuals are not widely known in sociological circles. 
+I spent a lot of time exploring the ideological underpinnings of modern spirituality and in that time it has become quite clear to me that the spiritual and metaphysical terrain of this planet has been colonized by agents of the [Accumulating Class](https://spiritwiki.lightningpath.org/index.php/Accumulating_Class), it's archetypes have distorted, its cosmologies have been inverted, and the liberatory potential of authentic spirituality has suppressed, turned into enslaving ideology in service of the extant [Regime of Accumulation](https://spiritwiki.lightningpath.org/index.php/Regime_of_Accumulation). 
+
+Of course, I wouldn't be the first one to say that. Karl Marx and a handful of others have said it too. All sociologists who consider religion and mysticism, almost without exception, dismiss it as opiated delusion. Organized religion is bunk. Mystical experiences are bunk. God and Consciousness in creation? All bunk, product of a deceptive and delusional minds corrupted by capitalist ideology.  Only three I can think of took it seriously. Joachim Wach, Ernst Troeltsch and possibly [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter), Anglican Minister and radical socialist, but only if you include him in sociological ranks, and these individuals are not widely known in sociological circles. 
 
 I to dismissed it originally. I was raised Catholic but rejected the faith at an early age. In university, I adopted an atheism rooted in a Marxian rejection of religion and spirituality. However, while I am still critical of religion, seeing it as an elite hegemonic tool, I no longer dismiss the experiential part of it (the mystical side of things) because, 
 
-1) I know the experiences are real and significant because I have had many of them and
+1) I know the experiences are real, significant, and not delusional because I have had many of them and
 2) I know many other people have experienced them (Sosteric, 2018).
 3) Other scholars admit they exist and are important. Stace, for example, mystical experience "a psychological fact of which there is abundant evidence" and further said that "To deny or doubt that it exists as a psychological fact is not a reputable opinion. It is ignorance and "very stupid" (Stace, 1960) 
 4) It is incredibly arrogant to do so. Humans have been having "mystical" experiences for centuries. They have had them in ancient times and they have them in modern times. They have significant, important, healing, and transformative and dismissing them out of hand as delusion is academic arrogance at its height.
     
 The truth is, spiritual experience has been a central feature of all human existence. From the earliest emergence of humanity (Hamer 2005) to our current modern experiences, mystical experience is a psychological and neurological fact. With modern brain scanning technologies we can actually observe the neurological reality of mystical experience (Newberg, d’Aquile, and Rause 2001; Newberg and Waldman 2009).  There's no argument here. They are real and they are important and I'm not the first one to say it. Stace called mystical experience "a psychological fact of which there is abundant evidence." He further went on to say that, "To deny or doubt that it exists as a psychological fact is not a reputable opinion. It is ignorance and "very stupid" (Stace 1960:14). 
 
-#### Rocket Guides
+## Rocket Guides
 
 - Rocket Scientists' Guide to Money and the Economy - a grounded style revelation of the class-based nature of our reality, and our exploitation
 - 
 
-#### Video Work
+## Video Work
 
 I've also done a bit of video work, mostly experimental, and I plan to do more once I settle on an efficient and appropriate format.
 
@@ -126,7 +128,21 @@ Driven by a relentless need to understand what I had experienced, I embarked on 
 
 Cookson, P. S. (2000). Editorial. *International Review of Research in Open and Distance Learning*, *1*(1), 1–5. https://epe.bac-lac.gc.ca/100/201/300/intl_review_research/html/v1n1-v13n1/www.irrodl.org/index.php/irrodl/article/view/1/332.html?nodisclaimer=1
 
-Sosteric, M. (2018). Everybody has a connection experience: Prevalence, confusions, interference, and redefinition. Spirituality Studies, 4(2). https://www.spirituality-studies.org/dp-volume4-issue2-fall2018/files/assets/common/downloads/files/4-2-sosteric.pdf
+Hamer, D. H. (2005). The God Gene: How Faith is Hardwired into Our Genes. Anchor.
+
+Newberg, A., d’Aquile, E., & Rause, V. (2001). Why God Won’t Go Away: Brain Science and the Biology of Belief. Ballantine Books.
+
+Sosteric, M. (2014). A Sociology of Tarot. Canadian Journal of Sociology, 39(3). https://doi.org/0.29173/cjs20000
+
+Sosteric, M. (2018a). Everybody has a connection experience: Prevalence, confusions, interference, and redefinition. Spirituality Studies, 4(2). https://www.spirituality-studies.org/dp-volume4-issue2-fall2018/files/assets/common/downloads/files/4-2-sosteric.pdf
+
+Sosteric, M. (2018b). Mystical experience and global revolution. Athens Journal of Social Sciences, 5(3), 235–255. https://doi.org/10.30958/ajss.5-3-1
+
+Sosteric, M. (2018c). Star Wars is a religion that primes us for war and violence. The Conversation. https://theconversation.com/star-wars-is-a-religion-that-primes-us-for-war-and-violence-89443
+
+Sosteric, M. (2020). Rethinking the Origins and Purpose of Religion: Jesus, Constantine, and the Containment of Global Revolution. Athens Journal of Social Sciences, 9(1), 69–88. https://doi.org/10.30958/ajss.9-1-4
+
+Sosteric, M. (2024). From Zoroaster to Star Wars, Jesus to Marx: The Art, Science, and Technology of Mass Human Manipulation. Athens Journal of Philosophy. https://doi.org/10.30958/ajphil.3-4-1
 
 Stace, W. T. (1960a). Mysticism and Philosophy. Macmillan. https://wudhi.azurewebsites.net/mysticism/ws/wts-mp%20-%20index.htm
 
