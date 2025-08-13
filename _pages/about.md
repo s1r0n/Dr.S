@@ -31,13 +31,13 @@ _My work attracts readers across multiple regions, including the U.S., Canada, a
 
 ## Mystical Experience
 
-I pursued a typical career path for the first few years as an assistant professor, mostly focused on the potential of technology. However, twenty-two years ago, in 2003, a brief but profound mystical experience—a "[connection experience](https://spiritwiki.lightningpath.org/index.php/Connection_Experience)" (CE) as I later came to call these events—shattered my ordinary understanding of reality and catalyzed a transformative journey that continues to this day.  This experience, partly documented in the article “[Connection 101: An Autoethnography of my (Mystical) Connection Experience](https://www.academia.edu/126423623/Connection_100_An_Auto_Ethnography_of_My_Mystical_Connection_Experiences)” (Sosteric 2022:101), was not one of immediate insight or enlightenment but rather a cathartic release from a deep and pervasive fear instilled by my childhood indoctrination in the Catholic Church, the fear of a judgmental and punishing God. The experience, which I later termed a [Clearing Experience](https://spiritwiki.lightningpath.org/index.php/Clearing_Experience) because it cleared some deep fears, lasted only a few moments; however, it unleashed an overwhelming and inexplicable flow of creative energy and insight that, in 60s nomenclature, blew my mind. I sat down at the keyboard and literally began spewing information on the page at 80+ words a minute.  The information itself--tightly packed, symbolic, metaphysical, in some cases vibrationally weird. and visionary-- blew apart not only the "spiritual" training I had received as a child, but the epistemological and ontological boundaries my university education had so carefully placed around me. From my early Catholicism to my adolescent explorations to the avowed materialist/atheism of my university training, I was forced to reconsider everything I had ever learned about human nature, consciousness, spirituality, and human potential. It was quite the shock.  
+I pursued a typical career path for the first few years as an assistant professor, mostly focused on the potential of technology. However, twenty-two years ago, in 2003, a brief but profound mystical experience—a "[connection experience](https://spiritwiki.lightningpath.org/index.php/Connection_Experience)" (CE) as I later came to call these events—shattered my ordinary understanding of reality and catalyzed a transformative journey that continues to this day.  This experience, partly documented in the article “[Connection 101: An Autoethnography of my (Mystical) Connection Experience](https://www.academia.edu/126423623/Connection_100_An_Auto_Ethnography_of_My_Mystical_Connection_Experiences)” (Sosteric 2022:101), was not one of immediate insight or enlightenment but rather a cathartic release from a deep and pervasive fear instilled by my childhood indoctrination in the Catholic Church, the fear of a judgmental and punishing God. The experience, which I later termed a [Clearing Experience](https://spiritwiki.lightningpath.org/index.php/Clearing_Experience) because it cleared some deep fears, lasted only a few moments; however, it unleashed an overwhelming and inexplicable flow of creative energy and insight that, in 60s nomenclature, blew my mind. I sat down at the keyboard and literally began spewing information on the page at 80+ words a minute.  The information itself--tightly packed, symbolic, metaphysical, in some cases vibrationally weird. and visionary-- blew apart not only the "spiritual" indoctrination I had received as a child, but the epistemological and ontological boundaries my university education had so carefully placed around me. From my early Catholicism to my adolescent explorations to the avowed materialist/atheism of my university training, I was forced to reconsider everything I had ever learned about human nature, consciousness, spirituality, and human potential. It was quite the shock, a lightning strike, metaphorically speaking.  
 
 The spew itself (I call it spew because it really was spew--raw, unfiltered, unvetted) came in three flavours, poetry, parables, and prose. 
 
 ### Poetry
 
-Although I eventually wrote more poetry,  several works spewed out within a six month period.  I speak not about the quality of these here, just the speed with which they flowed onto the page.
+Although I eventually wrote more poetry,  several works spewed out within a six month period.  I speak not about the quality of these here, just the speed with which they flowed onto the page. The themes are eschatological, transformative, emancipatory, and critical.
 
 - [Shambhala Warriors](https://medium.com/literally-literary/shambhala-warriors-679fe5d48c16)
 - The Redemption
@@ -53,14 +53,14 @@ Although I eventually wrote more poetry,  several works spewed out within a six 
 
 ### Parables and Allegories
 
-In addition to the poems which gushed out in rapid succession, I also wrote four allegories during this period as well. 
+In addition to the poems I also wrote four allegories during this period as well. 
 
 - [Allegory of the Room](https://s1r0n.github.io/lightning-path/allegories/1-allegory-of-the-room.html)
 - [Allegory of the Bucket](https://s1r0n.github.io/lightning-path/allegories/2-allegory-of-the-bucket.html)
 - [Allegory of the Dream](https://s1r0n.github.io/lightning-path/allegories/3-allegory-of-the-dream.html)
 - [Allegory of the Blindfold](https://s1r0n.github.io/lightning-path/allegories/4-allegory-of-the-blindfold.html) 
 
-An additional allegory "The Allegory of the Canvas" has been in my head since the beginning, but I have yet to find the time to write it out.
+An additional allegory "The Allegory of the Canvas" has been in my head since the beginning, but I have yet to find the time or the inclination to write it out.
 
 ### Prose
 
