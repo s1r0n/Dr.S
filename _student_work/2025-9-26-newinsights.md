@@ -7,8 +7,7 @@ category: Course Reflection
 teaser:  The course taught me that small, consistent acts of redesign in a household, a team, or a classroom can add up
 ---
 
-**Part 3: What have I learned in this course?
-**
+**The course taught me that small, consistent acts of redesign in a household, a team, or a classroom can add up**
 
 I came into this course thinking mostly in terms of personality and preference. If someone liked 
 sports or books, if a family divided chores one way or another, if I chose the military over 
