@@ -4,8 +4,7 @@ date: 2025-09-26
 coursename: Sociology 287 - Introduction to  Social Movements
 courselink: https://www.athabascau.ca/syllabi/soci/soci287.html
 category: Course Reflection
-teaser:  The course taught me that small, consistent acts of redesign in a household, a team, 
-or a classroom can add up
+teaser:  The course taught me that small, consistent acts of redesign in a household, a team, or a classroom can add up
 ---
 
 **Part 3: What have I learned in this course?
