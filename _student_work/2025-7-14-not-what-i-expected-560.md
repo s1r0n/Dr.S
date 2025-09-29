@@ -4,7 +4,7 @@ date: 2025-07-14
 coursename: Sociology 460 - Sociology of Technology 
 courselink: https://www.athabascau.ca/syllabi/soci/soci460.html
 category: Course Reflection
-teaser: going through the units, readings, and assignment, I’ve been surprised at how much this course made me think deeply and challenge my initial perspective about how information and technology are tied into power, inequality, politics, and even our sense of self. On a personal level, I thoroughly enjoy learning about these topics. But as an engineering student, I most definitely was not used to doing it in an academic setting. It wasn’t always easy or comfortable, but it was absolutely worth it.
+teaser: ...going through the units, readings, and assignment, I’ve been surprised at how much this course made me think deeply and challenge my initial perspective about how information and technology are tied into power, inequality, politics, and even our sense of self. On a personal level, I thoroughly enjoy learning about these topics. But as an engineering student, I most definitely was not used to doing it in an academic setting. It wasn’t always easy or comfortable, but it was absolutely worth it.
 ---
 In all honesty, I wasn’t sure what to expect to get out of this course when I registered.
 At first, I thought it might be a general overview of how information technology (IT) works
