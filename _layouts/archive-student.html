@@ -20,6 +20,13 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
 
+   {%- comment -%} Teaser/excerpt FIRST {%- endcomment -%}
+          {% if post.teaser %}
+            <p class="archive__item-meta"><em>{{ post.teaser | markdownify | strip | replace: "<p>", "" | replace: "</p>", "" }}</em></p>
+          {% elsif post.excerpt %}
+            <p class="archive__item-meta"><em>{{ post.excerpt | markdownify | strip_html | strip_newlines }}</em></p>
+          {% endif %}
+    
 {% assign posts = site.student_work | sort: 'date' | reverse %}
 
 <div class="entries-list">
