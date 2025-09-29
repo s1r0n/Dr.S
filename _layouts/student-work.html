@@ -4,7 +4,39 @@ layout: default
 
 {% assign entries = site[page.collection] | sort: 'date' | reverse %}
 
-<div class="archive" style="margin-top:150px !important; width:80% ;margin:auto;">
+<div class="student-work-meta" style="margin:0 0 1.25rem 0;">
+  <ul class="page__meta" style="list-style:none; padding:0; margin:0; display:flex; gap:1rem; flex-wrap:wrap;">
+    {% if page.date %}
+      <li><strong>Date:</strong>
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %-d, %Y" }}
+        </time>
+      </li>
+    {% endif %}
+
+    {% if page.coursename %}
+      <li><strong>Course:</strong>
+        {% if page.courselink %}
+          <a href="{{ page.courselink }}" target="_blank" rel="noopener">
+            {{ page.coursename }}
+          </a>
+        {% else %}
+          {{ page.coursename }}
+        {% endif %}
+      </li>
+    {% endif %}
+  </ul>
+
+  {% if page.teaser %}
+    <blockquote style="margin:.75rem 0 0; font-style:italic;">
+      {{ page.teaser | markdownify | strip | replace: "<p>", "" | replace: "</p>", "" }}
+    </blockquote>
+  {% endif %}
+</div>
+
+
+
+<div class="archive" style="margin-top:75px !important; margin-right:10%;">
   <h1 class="page__title" style="margin:top:24px !important; margin-bottom:36px !important">{{ page.title }}</h1>
 
   {% if page.content %}
@@ -14,6 +46,5 @@ layout: default
   {% endif %}
 <br><br><br><br><br>
   <p><a href="https://esosteric.lightningpath.org/student-work/">Return to listing</a></p>
-<br><br><br><br><br>
-asdfasdfasdf
+<br><br><br>
 </div>
