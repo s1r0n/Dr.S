@@ -4,8 +4,8 @@ layout: default
 
 {% assign entries = site[page.collection] | sort: 'date' | reverse %}
 
-<div class="archive" style="margin-top:150px; width:80% ;margin:auto;">
-  <h1 class="page__title">{{ page.title }}</h1>
+<div class="archive" style="margin-top:150px !important; width:80% ;margin:auto;">
+  <h1 class="page__title" style="margin:top:24px !important; margin-bottom:36px !important">{{ page.title }}</h1>
 
   {% if page.content %}
     <div class="page__content">
