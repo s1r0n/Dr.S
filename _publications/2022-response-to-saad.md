@@ -1,9 +1,9 @@
 ---
 title: "Response to Saad: The Sociology of Spiritulaity"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2022-response-to-saad
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A response to a Marcelo Saad's commentary on the challenges of accounting for anamolous phenomenon. Proposes a radical new evolutionary/spiritual schema for understanding our place in this world..'
 date: 2022-1-1
 venue: 'Academia Letters'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
