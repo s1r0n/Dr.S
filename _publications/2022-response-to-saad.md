@@ -6,7 +6,7 @@ permalink: /publications/2021-response-to-saad
 excerpt: 'A response to Marcelo Saad’s call for a sociology of spirit, critiquing Spiritism and highlighting the role of elite interference in shaping spiritual systems. Proposes an alternative framework for authentic spirituality rooted in critical sociology and evolutionary theory.'
 date: 2021-12-01
 venue: 'Academia Letters'
-paperurl: '/files/Response_to_Saad_The_Sociology_of_Spirit.pdf'
+paperurl: 'https://www.academia.edu/67132880/'
 citation: 'Sosteric, Mike. (2021). "Response to Saad: The Sociology of Spirituality." *Academia Letters*, Article 4524. https://doi.org/10.20935/AL4524'
 ---
 
