@@ -1,8 +1,8 @@
 ---
-title: Subjectivity and the Labour Process: A Case Study in the Restaurant Industry
+title: Subjectivity and the Labour Process - A Case Study in the Restaurant Industry
 collection: publications
 category: journal
-permalink: 1997-subjectivity-and-the-labour-process
+permalink: /publications/1997-subjectivity-and-the-labour-process
 excerpt: 'Participant observation study in the food and beverage industry.'
 date: 1997-1-1
 venue: 'Work, Employment, and Society'

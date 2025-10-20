@@ -1,9 +1,8 @@
 ---
-title: Electronic Journals and the Transformation of Scholarly 
-Communication: Constraints and Technical Possibilities
+title: Electronic Journals and the Transformation of Scholarly Communication -  Constraints and Technical Possibilities
 collection: publications
 category: manuscripts
-permalink: 1999-electronic-journals
+permalink: /publications/1999-electronic-journals
 excerpt: 'PhD Thesis on the political economy of scholarly publication'
 date: 1999-08-1
 venue: 'University of Alberta'
