@@ -1,5 +1,5 @@
 ---
-title: 'Response to Saad: The Sociology of Spirituality'
+title: 'Response to Saad - The Sociology of Spirituality'
 collection: publications
 category: journal 
 permalink: /publications/2022-response-to-saad
