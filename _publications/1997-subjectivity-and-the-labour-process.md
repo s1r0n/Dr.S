@@ -7,7 +7,7 @@ excerpt: 'Participant observation study in the food and beverage industry.'
 date: 1997-1-1
 venue: 'Work, Employment, and Society'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.academia.edu/67132880/Response_to_Saad_The_Sociology_of_Spirituality'
+paperurl: 'https://www.academia.edu/67132880/'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Sosteric, Mike. (2022). &quot;Subjectivity and the Labour Process: A Case Study in the Restaurant Industry. <i>Work, Employment, and Society.</i>'
 ---
