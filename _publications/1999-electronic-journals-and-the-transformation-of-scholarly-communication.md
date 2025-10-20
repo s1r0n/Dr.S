@@ -1,6 +1,6 @@
 ---
-title: "Electronic Journals and the Transformation of Scholarly 
-Communication: Constraints and Technical Possibilities"
+title: Electronic Journals and the Transformation of Scholarly 
+Communication: Constraints and Technical Possibilities
 collection: publications
 category: manuscripts
 permalink: 1999-electronic-journals
