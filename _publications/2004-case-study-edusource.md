@@ -6,7 +6,7 @@ permalink: /publications/2004-edusource-athabasca
 excerpt: 'A case study describing Athabasca University’s role in the pan-Canadian eduSource project, highlighting the creation of open source applications, digital repositories, and intelligent agents to support online learning.'
 date: 2004-05-01
 venue: 'ASTD (original submitted article)'
-paperurl: '/files/Case_study_EduSource_and_the_Athabasca_U.pdf'
+paperurl: 'https://www.academia.edu/25112799'
 citation: 'McGreal, R., Anderson, T., Hubick, C., Lin, F., Sosteric, M., Tin, T., & Yasynska, O. (2004). "Case Study: eduSource and the Athabasca University Digital Library Project." ASTD (submitted article).'
 ---
 
