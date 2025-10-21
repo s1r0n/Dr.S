@@ -4,7 +4,7 @@ collection: publications
 category: article
 permalink: /publications/2020-xx-the-catholic-church-is-a-rich-male-collective
 excerpt: 'This article argues that the institutional Catholic Church remains dominated by wealthy and male interests, and calls for structural reform, greater accountability, and inclusive leadership to align the Church with its stated ethical mission.'
-date: 2020
+date: 2020-09-23
 venue: 'The Conversation'
 paperurl: 'https://theconversation.com/the-catholic-church-is-a-rich-male-collective-101958'
 citation: 'Sosteric, Mike. (2020). "The Catholic Church is a rich male collective." The Conversation.'
