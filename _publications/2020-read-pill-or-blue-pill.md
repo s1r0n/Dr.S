@@ -4,7 +4,7 @@ collection: publications
 category: article
 permalink: /publications/2020-02-xx-the-red-pill-or-the-blue-pill-endless-consumption-or-sustainable-future
 excerpt: 'This article uses the metaphor of the red pill/blue pill to contrast current patterns of endless consumption with a possible sustainable future, urging both individuals and societies to challenge economic growth norms and embrace alternatives grounded in ecological and social justice.'
-date: 2020-02
+date: 2020-02-11
 venue: 'The Conversation'
 paperurl: 'https://theconversation.com/the-red-pill-or-the-blue-pill-endless-consumption-or-sustainable-future-110473'
 citation: 'Sosteric, Mike. (2020). "The red pill or the blue pill: endless consumption or sustainable future?" The Conversation.'
