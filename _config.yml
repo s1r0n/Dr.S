@@ -226,15 +226,6 @@ collections:
   creative:
     output: true
     permalink: /creative/:title/
-
-creative_category:
-  poems:
-    title: "Poems"
-  allegories:
-    title: "Allegories"
-  videos:
-    title: "Videos"
-
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -250,6 +241,15 @@ creative_category:
   student_work:
     output: true
     permalink: /student-work/:path/
+
+creative_category:
+  poems:
+    title: "Poems"
+  allegories:
+    title: "Allegories"
+  videos:
+    title: "Videos"
+
 
 # These settings control how pages and collections are included in the site
 defaults:
