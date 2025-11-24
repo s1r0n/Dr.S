@@ -17,9 +17,9 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-      ## {{ label }}
-      ---
-      {% assign title_shown = true %}
+## {{ label }}
+---
+{% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
