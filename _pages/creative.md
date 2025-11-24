@@ -16,16 +16,59 @@ author_profile: true
       {% if post.category != key %}
         {% continue %}
       {% endif %}
+
       {% unless title_shown %}
 ## {{ label }}
 ---
 {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+  </h2>
+
+  {% if post.date %}
+  <p class="page__meta">
+    <i class="far fa-calendar-alt" aria-hidden="true"></i>
+    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ post.date | date: "%B %-d, %Y" }}
+    </time>
+  </p>
+  {% endif %}
+
+  {% if post.description %}
+  <p class="archive__item-excerpt" itemprop="description">
+    {{ post.description | markdownify }}
+  </p>
+  {% endif %}
+</article>
+
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.creative reversed %}
-    {% include archive-single.html %}
+
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <h2 class="archive__item-title" itemprop="headline">
+    <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+  </h2>
+
+  {% if post.date %}
+  <p class="page__meta">
+    <i class="far fa-calendar-alt" aria-hidden="true"></i>
+    <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+      {{ post.date | date: "%B %-d, %Y" }}
+    </time>
+  </p>
+  {% endif %}
+
+  {% if post.description %}
+  <p class="archive__item-excerpt" itemprop="description">
+    {{ post.description | markdownify }}
+  </p>
+  {% endif %}
+</article>
+
   {% endfor %}
 {% endif %}
