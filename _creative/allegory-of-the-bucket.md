@@ -3,6 +3,7 @@ layout: single
 title: "Allegory of the Bucket"
 date: 2003-11-1
 collection: creative
+description: This narrative condenses the LP account of Toxic Socialization into the figure of a child repeatedly doused with “smiling” violence, illustrating how elite-aligned families and institutions cumulatively damage the Physical Unit, normalize abuse as care, and generate the shame, depression, and dissociation that later obstruct connection and healing
 category: allegories
 ---
 [Read the full allegory on The Lightning Path](https://repo.lightningpath.org/myths-and-symbols/allegories/2-allegory-of-the-bucket.html)
