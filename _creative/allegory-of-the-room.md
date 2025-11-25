@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Allegory of the Room"
 collection: creative
 category: allegories 
