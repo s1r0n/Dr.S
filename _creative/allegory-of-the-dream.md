@@ -1,5 +1,5 @@
 ---
-layout:single
+layout: single
 title: "Allegory of the Dream"
 collection: creative
 category: allegories
