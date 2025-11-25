@@ -1,8 +1,7 @@
 ---
 title: "Allegory of the Room"
 collection: creative
-category: allegories
-date: 2003
+category: allegories 
 decription: A mythic dramatization of Awakening and Activation, this allegory uses the image of frozen “cold people” in a sealed room to model how latent connection capacities can begin to thaw a traumatized population, producing both transformative cooperation and violent resistance as entrenched defensive structures encounter rising connection energy.
 ---
 
