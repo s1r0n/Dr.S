@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Allegory of the Blindfold"
 collection: creative
 category: allegories
