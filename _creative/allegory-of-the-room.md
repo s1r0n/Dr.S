@@ -1,5 +1,5 @@
 ---
-title: "Allegory of th Room"
+title: "Allegory of the Room"
 collection: creative
 category: allegories
 date: 2003
