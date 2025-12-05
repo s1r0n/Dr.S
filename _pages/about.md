@@ -111,14 +111,31 @@ I found this interference a third time while exploring the ancient Zoroastrian f
 - [Mystical Experience and Global Revolution](https://www.academia.edu/25031557/Mystical_experience_and_global_revolution)
 - [Star Wars is a Religion that Primes us All for War](https://theconversation.com/star-wars-is-a-religion-that-primes-us-for-war-and-violence-89443) - article written in The Conversation
 
-### 3. We Need New Theoretical Framework
+### 3. We Need New Theoretical Frameworks
 
-Finally, a third thing I learned was that we need new theoretical frameworks because the old frameworks have all been compromised in one way or another. 
+* just notes beyond here. 
+
+Finally, a third thing I learned was that we need new theoretical frameworks. old ones inadquate, colonized, based on ideologically corrupted understanding of human nature an dhuman potential. we need what I would call a coherent,a dvanced,[Human Development Framework](https://spiritwiki.lightningpath.org/index.php/Human_Development_Framework)), becomes increasingly catastrophic. 
+
+a. **need new psychological framework. current one, ego, superego, id, behaviourism, materialist, etc. completley inadequate. work here (list concepts)**
+
+1. new Needs and Attachment Theory - old ones inadequate [ explain why by drawing on "It takes a village"]
+2. new personality framework
+3. new pathologyframework 
+4. new approach to psychological and emotional healing and connetion (healing framework and connection frameworks)
+5. new institutional framework
+6. new ethical frameworks. 
+7. new creative frameworks. 
+
+b. **new metaphysical framework.** Need to decolonize our understanding of human nature and connection. involves reaching in decolonizing religion. bit of the work exposed in from zoroaster, rethinking the origins and purpose of religion, mystical experience and global revolution). most of it on SW or in repo.lightningpath.org. concepts Seven Pillars of AS 
+
+1. new metaphysical framework . A revitalization and clarification of core metaphysical concepts, including the dual structure of the human being (spiritual and bodily egos), the Fabric of Consciousness, and the central role of Connection Experiences (CEs) in human health and development.
+2. Need new master narrative, new creation tempalte I would call it. includes 
+3. new conceptual and narrative tools to go along with that (metaphors, allegories, instruments,*Nadir-Zenith-Clearing* typology provide the necessary language and clarity for individuals to interpret, validate, and integrate their own experience
+
+finally, New methods. particular important one autoethnography. modern instantiation of introspection. 
 
 1) 
-
-- 
-- 
 
 ## Video Work
 
