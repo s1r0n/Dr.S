@@ -29,8 +29,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "impact"
-    url: "impact"
+#  - title: "impact"
+#    url: "impact"
   # - title: "CV"
   #   url: /cv-json/
     
