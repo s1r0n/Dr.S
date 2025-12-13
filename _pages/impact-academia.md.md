@@ -7,7 +7,12 @@ author_profile: true
 
 ## Academia.edu Access Analytics — Dr. Mike Sosteric (2016-04-29 → 2025-11-24) by Chat GPT
 
+## Summary
+
+Academia.edu analytics demonstrate sustained, expanding public-academic impact over nearly a decade (2016-04-29 to 2025-11-24), totaling **84,540 interactions** from **49,588 unique visitors**. Reach is markedly **global and widening**, with engagement originating from **198 countries** and **8,252 cities**, and with the majority of all activity concentrated in the most recent period (**~64% since 2022**), indicating growing relevance rather than legacy-only visibility. Impact is also **deep and usage-oriented**: **83.8% of all interactions are paper views/downloads** and **15.5% of all visitors download full texts**, consistent with readers saving work for study, teaching, or citation rather than simply browsing. Importantly, engagement is not limited to a single “hit”; the dataset shows **portfolio breadth** (access to **360 distinct paper pages**), measurable “long-tail” uptake across many outputs, and clear signs of **repeat and returning attention** (thousands of visitors appearing across multiple months and hundreds across multiple years). Discovery pathways further support knowledge mobilization beyond platform self-circulation, with substantial traffic arriving via **search engines** and networked referrals, indicating that the work is being found, shared, and used in diverse academic and public contexts.
+
 ### Scale and longevity
+
 - **84,540 total access events** (pageviews + downloads)
 - **49,588 unique visitors**
 - Activity spans **~9.6 years** (sustained, not a one-off spike)
