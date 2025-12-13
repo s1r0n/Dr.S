@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academia.edu Impact Summary"
-permalink: /Academia.eduImpact/
+permalink: /academia.edu.impact/
 author_profile: true
 ---
 
