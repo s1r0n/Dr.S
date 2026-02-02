@@ -13,9 +13,10 @@ This article reconstructs Abraham Maslow’s post-Pearl Harbor commitment to dev
 
 ## Key Points
 
-- Reconstructs Abraham Maslow’s post-Pearl Harbor commitment to develop a **"Psychology for the Peace Table"**—a tripartite framework comprising Humanistic, Transpersonal, and **Eupsychian psychologies** intended to scaffold the **"good society" (Eupsychia)** and render war obsolete  
-- Traces the historical **marginalization and institutional "murder"** of Maslow’s project by behaviourist and cognitivist paradigms within political-economic contexts favoring adjustment-focused psychologies  
-- Advances a **critical sociology of psychological knowledge production**, arguing the suppression of Maslow’s emancipatory vision was a coordinated response to its threat to capitalist hegemony  
-- Positions **Eupsychian Theory** as capable of reconceptualizing economics, education, and civic life toward species-level flourishing  
-- Issues a practical call to establish an ongoing **Peace Table** (initially online) where scholars and practitioners can collaboratively reconstruct Eupsychian Theory and prototype institutions oriented to connection, autonomy, and authentic human potential  
-- Extends research on the intersection of **spirituality, social theory, and systemic transformation**
+- Reconstructs Maslow’s post-Pearl Harbor intellectual trajectory originating in the December 8, 1941 **"Peace Table" vision**, which redirected his work from dominance/motivation studies to creating a psychology for peace and human flourishing  
+- Documents Maslow’s founding of **Humanistic Psychology** (1961) and **Transpersonal Psychology** (1969), establishing theoretical foundations for a third branch: **Eupsychian Psychology**—a "Utopian" framework for building the "good society" capable of actuating full Human Potential  
+- Positions Maslow’s project as a **Comprehensive Framework for social order** comparable to Auguste Comte’s Religion of Humanity, aimed at reconceptualizing economics, education, religion, and social institutions through needs-based, growth-oriented theory  
+- Analyzes Maslow’s 1969 assessment that psychology had developed empirical **"tools to judge and compare societies"** based on growth-fostering potential and human fulfillment  
+- Provides sociological autopsy of the movement's **"murder"** (per Elkins): systematic marginalization, defunding, and replacement by behaviorist/cognitive paradigms following Maslow’s 1970 death—characterized as intentional suppression by an **Accumulating Class** preserving exploitative status quo rather than natural theoretical obsolescence  
+- Issues urgent call to **establish the Peace Table now**—initially online—as a collaborative space for scholars/practitioners to reconstruct Eupsychian Theory using empirical, theoretical, and mystical insights  
+- Frames the project as necessary response to contemporary **polycrisis**, arguing that the window for manifesting Eupsychia remains open if the emancipatory, truth-seeking impulse of Humanistic Psychology is revived with "full, transformative intent"
