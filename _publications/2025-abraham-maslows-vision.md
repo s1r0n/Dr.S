@@ -13,9 +13,9 @@ This article reconstructs Abraham Maslow’s post-Pearl Harbor commitment to dev
 
 ## Key Points
 
-- Analyzes the **paradigm shift** from materialist (brain-bound) models to **quantum and field-theoretical frameworks** in consciousness research  
-- Centers on Paul C. Mocombe’s **Consciousness Field Theory (CFT)**, which posits consciousness as a fifth force of nature composed of quantum "psychions"  
-- Engages contemporary theories including **Orch-OR** (Penrose/Hameroff), **cemi field theory** (McFadden), and research on non-local awareness, near-death experiences (NDEs), and terminal lucidity  
-- Applies a **critical sociological lens** to interrogate the ideological functions of neuro-quantum theories, particularly their tendency to reassert **human exceptionalism** and hierarchical distinctions between human and non-human consciousness  
-- Argues for a stance of **"fearless but rigorous openness"** toward post-materialist hypotheses while remaining alert to how scientific innovation can embed class-bound narratives of unequal worth  
-- Connects to broader research on the **sociology of mysticism** and the social construction of consciousness  
+- Reconstructs Abraham Maslow’s post-Pearl Harbor commitment to develop a **"Psychology for the Peace Table"**—a tripartite framework comprising Humanistic, Transpersonal, and **Eupsychian psychologies** intended to scaffold the **"good society" (Eupsychia)** and render war obsolete  
+- Traces the historical **marginalization and institutional "murder"** of Maslow’s project by behaviourist and cognitivist paradigms within political-economic contexts favoring adjustment-focused psychologies  
+- Advances a **critical sociology of psychological knowledge production**, arguing the suppression of Maslow’s emancipatory vision was a coordinated response to its threat to capitalist hegemony  
+- Positions **Eupsychian Theory** as capable of reconceptualizing economics, education, and civic life toward species-level flourishing  
+- Issues a practical call to establish an ongoing **Peace Table** (initially online) where scholars and practitioners can collaboratively reconstruct Eupsychian Theory and prototype institutions oriented to connection, autonomy, and authentic human potential  
+- Extends research on the intersection of **spirituality, social theory, and systemic transformation**
