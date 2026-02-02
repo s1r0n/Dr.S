@@ -2,7 +2,7 @@
 title: 'The Shifting Paradigm in the Science of Consciousness'
 collection: publications
 category: article
-permalink: /publications/2016-shifting-paradigm/
+permalink: /publications/2025-shifting-paradigm/
 excerpt: 'An examination of tectonic shifting in our scientific view of consciousness.'
 date: 2025-11-17
 venue: 'The Peace Table'
