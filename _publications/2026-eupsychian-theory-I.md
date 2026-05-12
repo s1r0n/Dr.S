@@ -2,7 +2,7 @@
 title: 'Eupsychian Theory I: Reclaiming Maslow and Rejecting The Pyramid – The Circle of Seven Essential Needs'
 collection: publications
 category: journal
-permalink: /publications/2020-eupsychian-theory-I
+permalink: /publications/2026-eupsychian-theory-I
 excerpt: 'This preprint rejects the simplified “pyramid” reading of Maslow and proposes a more holistic, Indigenous-rooted Circle of Seven Essential Needs as the basis for a serious theory of human flourishing.'
 date: 2026-01-01
 venue: 'Athens Journal of Psychology'
