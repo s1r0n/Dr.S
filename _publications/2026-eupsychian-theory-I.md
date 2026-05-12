@@ -7,7 +7,7 @@ excerpt: 'This preprint rejects the simplified “pyramid” reading of Maslow a
 date: 2026-01-01
 venue: 'Athens Journal of Psychology'
 paperurl: 'https://www.athensjournals.gr/psychology/2025-6940-AJPSY-Sosteric-02.pdf'
-citation: 'Sosteric, Mike, & Ratkovic, Gina. (2026). "Eupsychian Theory I: Reclaiming Maslow and Rejecting The Pyramid – The Circle of Seven Essential Needs" *Athens Journal of Psychology*'
+citation: 'Sosteric, Mike. (2026). "Eupsychian Theory I: Reclaiming Maslow and Rejecting The Pyramid – The Circle of Seven Essential Needs" *Athens Journal of Psychology*'
 ---
 
 **Abstract**  
