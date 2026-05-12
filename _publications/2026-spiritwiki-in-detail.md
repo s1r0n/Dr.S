@@ -2,7 +2,7 @@
 title: 'The SpiritWiki in Detail'
 collection: publications
 category: article
-permalink: /publications/the-spiritwiki-in-detail/
+permalink: /publications/2026/the-spiritwiki-in-detail/
 excerpt: 'An examination of the SpiritWiki Knowledge Ecosystem.'
 date: 2026-5-11
 venue: 'Manuscript'
