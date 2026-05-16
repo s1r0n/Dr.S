@@ -1,5 +1,5 @@
 ---
-title: Critique of Commentary - Eupsychian Theory I
+title: Commentary - Eupsychian Theory I
 date: 2026-5-16
 permalink: /posts/2026/commentary-eupsychian-theory-i/
 tags:
@@ -8,6 +8,7 @@ tags:
   - Circle of Needs
   - Pyramid of Needs
 ---
+Theoretical overview and assessment of my peer reviewed article "Eupsychian Theory I"
 
 **Original Article:** [Eupsychian Theory I: Reclaiming Maslow and Rejecting the Pyramid — The Circle of Seven Essential Needs](https://www.athensjournals.gr/psychology/2025-6940-AJPSY-Sosteric-02.pdf)  *Athens Journal of Psychology, 2025*
 
