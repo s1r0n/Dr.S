@@ -9,7 +9,7 @@ tags:
   - Althuser
   - System Justification Theory
 ---
-# Critique of “Searching for the Root of All Evil”: An Archetypal Inquiry Lacking Sociological Depth
+ Critique of the article “Searching for the Root of All Evil”: An Archetypal Inquiry Lacking Sociological Depth
 
 *Mike Sosteric*
 
