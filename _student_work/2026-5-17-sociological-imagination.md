@@ -1,6 +1,6 @@
 ---
 title: The Sociological Imagination
-date: 2026-5-117
+date: 2026-5-17
 coursename: Sociology 287 - Introduction to Sociology
 courselink: https://www.athabascau.ca/syllabi/soci/soci287.html
 category: Course Reflection
