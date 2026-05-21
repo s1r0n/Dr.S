@@ -18,3 +18,11 @@ Building on claims that sociology has neglected religion, this manuscript argues
 - Reframes “mystical experience” as **connection experience** to reduce conceptual confusion.  
 - Positions the project as necessary for theoretical completeness and disciplinary integrity.  
 - Links religion, experience, and social control without collapsing them into one monocausal story.
+
+## Submission History
+
+* Dec 16, 2024 - Submitted to Sociological Forum - Desk Rejection Issued with no formal explanation. I raised a formal complaint.
+  * anonymized email record
+  * formal complaint letter
+  * article documenting the epistemic gatekeeping that occurs
+* May 21, 2026 - Submitted to [Sociology](https://journals.sagepub.com/home/soc)
