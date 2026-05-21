@@ -6,7 +6,7 @@ permalink: /publications/religion-does-matter-half-the-story
 excerpt: "This manuscript responds to debates about sociology’s neglect of religion, arguing that serious analysis must also include mysticism—i.e., “mystical experience,” reframed here as connection experience."
 date: 2024-01-01
 venue: "Manuscript"
-paperurl: "https://www.academia.edu/122841100/Religion_Does_Matter_But_Its_Only_Half_the_Story"
+paperurl: "https://esosteric.lightningpath.org/assets/articles/religion-matters-but-its-only-half-the-story.pdf"
 citation: "Sosteric, Mike, & Sosteric, Tristan. (Manuscript). “Religion Does Matter (But It’s Only Half the Story).”"
 ---
 
