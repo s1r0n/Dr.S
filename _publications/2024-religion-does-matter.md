@@ -22,7 +22,7 @@ Building on claims that sociology has neglected religion, this manuscript argues
 ## Submission History
 
 * Dec 16, 2024 - Submitted to Sociological Forum - Desk Rejection Issued with no formal explanation. I raised a formal complaint.
-  * anonymized email record
+  * [anonymized email record](https://esosteric.lightningpath.org/files/religion-matters/email-chain-redacted.pdf)
   * [formal complaint letter](https://esosteric.lightningpath.org/files/religion-matters/complaint-letter.pdf) (sent to Associate Peer Review Manager at Wiley)
   * article documenting the epistemic gatekeeping that occurs
   * [COPE Guidelines](https://esosteric.lightningpath.org/files/religion-matters/cope-guildelines.pdf)
