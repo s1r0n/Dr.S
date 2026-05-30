@@ -6,7 +6,7 @@ permalink: /publications/religion-does-matter-half-the-story
 excerpt: "This manuscript responds to debates about sociology’s neglect of religion, arguing that serious analysis must also include mysticism—i.e., “mystical experience,” reframed here as connection experience."
 date: 2024-01-01
 venue: "Manuscript"
-paperurl: "https://esosteric.lightningpath.org/assets/articles/religion-matters-but-its-only-half-the-story.pdf"
+paperurl: "https://esosteric.lightningpath.org/files/religion-matters-but-its-only-half-the-story.pdf"
 citation: "Sosteric, Mike, & Sosteric, Tristan. (Manuscript). “Religion Does Matter (But It’s Only Half the Story).”"
 ---
 
@@ -22,7 +22,8 @@ Building on claims that sociology has neglected religion, this manuscript argues
 ## Submission History
 
 * Dec 16, 2024 - Submitted to Sociological Forum - Desk Rejection Issued with no formal explanation. I raised a formal complaint.
-  * anonymized email record
+  * [anonymized email record](https://esosteric.lightningpath.org/_publications/assets/religion-matters/email-chain-redacted.pdf)
   * [formal complaint letter](https://esosteric.lightningpath.org/_publications/assets/religion-matters/complaint-letter.pdf) (sent to Associate Peer Review Manager at Wiley)
   * article documenting the epistemic gatekeeping that occurs
+  * [COPE Guidelines](https://esosteric.lightningpath.org/_publications/assets/religion-matters/cope-guildelines.pdf)
 * May 21, 2026 - Submitted to [Sociology](https://journals.sagepub.com/home/soc)
