@@ -2,7 +2,7 @@
 title: "Theories of Social Change (SOCI 435)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /sociology-435
+permalink: /teaching/sociology-435
 venue: "Athabasca University"
 author: false
 coordinates: false
