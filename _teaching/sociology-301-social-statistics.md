@@ -2,7 +2,7 @@
 title: "Social Statistics (SOCI301) "
 collection: teaching
 type: "Undergraduate course"
-permalink: /sociology-288
+permalink: /teaching/sociology-288
 venue: "Athabasca University"
 author: true
 coordinates: true
