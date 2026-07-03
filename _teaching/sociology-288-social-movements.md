@@ -2,7 +2,7 @@
 title: "Introduction to Sociology II (SOCI 288)"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://www.athabascau.ca/syllabi/soci/soci288.html
+permalink: /teaching/sociology-288
 venue: "Athabasca University"
 author: true
 coordinates: true
