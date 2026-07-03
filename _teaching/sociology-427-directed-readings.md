@@ -2,7 +2,7 @@
 title: "Directed Readings and Research (SOCI 427)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /sociology-427
+permalink: /teaching/sociology-427
 venue: "Athabasca University"
 author: true
 coordinates: true
