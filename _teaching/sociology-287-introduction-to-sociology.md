@@ -2,7 +2,7 @@
 title: "Introduction to Sociology (SOCI 287)"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://www.athabascau.ca/syllabi/soci/soci287.html
+permalink: /teaching/sociology-287
 venue: "Athabasca University"
 author: yes
 coordinates: yes
