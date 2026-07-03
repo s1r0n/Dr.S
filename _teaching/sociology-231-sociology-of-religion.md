@@ -2,7 +2,7 @@
 title: "Sociology of Religion (SOCI 231)"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://www.athabascau.ca/syllabi/soci/soci231.html
+permalink: /teaching/sociology-231
 venue: "Athabasca University"
 date: 2024-06-06
 author: yes
