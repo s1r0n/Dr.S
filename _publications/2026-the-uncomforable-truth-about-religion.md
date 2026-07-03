@@ -2,7 +2,7 @@
 title: 'The Uncomfortable Truth about Religion'
 collection: publications
 category: article
-permalink: 
+permalink: /publications/2026/the-uncomfortable-truth-about-religion
 excerpt: 'This Medium article argues that mainstream Christianity—and organized religion more broadly—has systematically inverted the authentic revolutionary message of Jesus Christ.'
 date: 2026-5-23
 venue: 'Manuscript'
