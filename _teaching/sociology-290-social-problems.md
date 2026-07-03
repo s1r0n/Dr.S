@@ -2,7 +2,7 @@
 title: "Social Problems (SOCI 290)"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://www.athabascau.ca/syllabi/soci/soci290.html
+permalink: /teaching/sociology-290
 venue: "Athabasca University"
 author: true
 coordinates: false
