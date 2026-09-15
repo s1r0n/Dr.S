@@ -6,7 +6,7 @@ permalink: /publications/1999-icaap-xml
 excerpt: 'This article in *D-Lib Magazine* describes ICAAP’s development of the ICAAP eXtended Markup Language (IXML), an XML-based system designed to streamline journal production, enhance metadata handling, and provide robust, low-cost alternatives to commercial scholarly publishing.'
 date: 1999-02-01
 venue: 'D-Lib Magazine, Volume 5 Number 2'
-paperurl: 'http://www.dlib.org/dlib/february99/sosteric/02sosteric.html'
+paperurl: 'https://www.dlib.org/dlib/february99/02sosteric.html'
 citation: 'Sosteric, Mike. (1999). "ICAAP eXtended Markup Language: Exploiting XML and Adding Value to the Journals Production Process." *D-Lib Magazine*, 5(2). ISSN 1082-9873.'
 ---
 
