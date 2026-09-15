@@ -9,7 +9,7 @@ citation: 'Sosteric, Mike. (1998). "At the Speed of Thought- Pursuing Non-Commer
 ---
 
 TLDR: "A call for participation in the International Consortium for Alternative Academic Publication (ICAAP) to address the crisis in scholarly communication through non-commercial alternatives."
-[<a href="/_publications/assets/at-the-speed-of-thought.pdf">Dowload original</a>]
+[<a href="/files/at-the-speed-of-thought.pdf">Dowload original</a>]
 ---
 
 &gt; **Author:** Mike Sosteric  
