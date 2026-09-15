@@ -2,7 +2,7 @@
 title: 'At the Speed of Thought?'
 collection: publications
 category: journal
-permalink: /_publications/assets/1998-at-the-speed-of-thought
+permalink: /publications/1998-at-the-speed-of-thought
 excerpt: 'this is the excerpt.'
 date: 1998-03-01
 citation: 'Sosteric, Mike. (1998). "At the Speed of Thought- Pursuing Non-Commercial Alternatives to Scholarly Communication)." ARL Newsletter, 1998, 200.'
